@@ -1,0 +1,1021 @@
+{
+  "elements": {
+    "MAJOR_00": {
+      "name": "The Fool",
+      "atomic_weight": 0,
+      "functional_role": "SYSTEM_INITIATOR",
+      "suit": "Major",
+      "valence": "Positive-Ambiguous",
+      "diagnostic_lens": "The absence of previous data; pure velocity; unconditioned initiation.",
+      "reactive_behavior": "When paired with a Major card, it triggers an Expanding Reel."
+    },
+    "MAJOR_01": {
+      "name": "The Magician",
+      "atomic_weight": 1,
+      "functional_role": "SYSTEM_DRIVER",
+      "suit": "Major",
+      "valence": "Active-Directing",
+      "diagnostic_lens": "Conscious deployment of raw vectors; interface coordination; focal assembly point.",
+      "reactive_behavior": "Acts as an absolute wild card, aligning adjacent localized loads into unified paylines."
+    },
+    "MAJOR_02": {
+      "name": "The High Priestess",
+      "atomic_weight": 2,
+      "functional_role": "DATA_RESERVOIR",
+      "suit": "Major",
+      "valence": "Passive-Receptive",
+      "diagnostic_lens": "Latent memory blocks; unmanifested system logic; unindexed database states.",
+      "reactive_behavior": "Suppresses rapid reactive behaviors; shifts processing logic to internal tracking."
+    },
+    "MAJOR_03": {
+      "name": "The Empress",
+      "atomic_weight": 3,
+      "functional_role": "COMPLEX_MULTIPLIER",
+      "suit": "Major",
+      "valence": "Generative-Abundant",
+      "diagnostic_lens": "Systemic yield optimization; compound growth; decentralized expansion of organic structures.",
+      "reactive_behavior": "Triggers a Vitality multiplier (x2) across all adjacent resource vectors."
+    },
+    "MAJOR_04": {
+      "name": "The Emperor",
+      "atomic_weight": 4,
+      "functional_role": "ARCHITECTURAL_ANCHOR",
+      "suit": "Major",
+      "valence": "Static-Rigid",
+      "diagnostic_lens": "Structural constraints; centralized executive control; systemic stabilization protocols.",
+      "reactive_behavior": "Locks the current reel configuration; overrides and cancels high-friction anomalies."
+    },
+    "MAJOR_05": {
+      "name": "The Hierophant",
+      "atomic_weight": 5,
+      "functional_role": "SYSTEM_REGULATOR",
+      "suit": "Major",
+      "valence": "Structured-Codified",
+      "diagnostic_lens": "Legacy software architecture; consensus mechanisms; institutional error-checking filters.",
+      "reactive_behavior": "Forces adjacent volatile loads to conform to localized structural limits."
+    },
+    "MAJOR_06": {
+      "name": "The Lovers",
+      "atomic_weight": 6,
+      "functional_role": "VALENCE_ALIGNER",
+      "suit": "Major",
+      "valence": "Binary-Symbiotic",
+      "diagnostic_lens": "Dual-node connection; critical decision node requiring alignment of opposing system forces.",
+      "reactive_behavior": "Forms immediate payline intersections when bridging divergent elemental types."
+    },
+    "MAJOR_07": {
+      "name": "The Chariot",
+      "atomic_weight": 7,
+      "functional_role": "FORCE_VECTOR",
+      "suit": "Major",
+      "valence": "Linear-Accelerated",
+      "diagnostic_lens": "Targeted deployment of momentum; temporary reconciliation of conflicting system variables.",
+      "reactive_behavior": "Nudges the current row forward, forcing an immediate single-reel stabilization check."
+    },
+    "MAJOR_08": {
+      "name": "Strength",
+      "atomic_weight": 8,
+      "functional_role": "FRICTION_BALANCER",
+      "suit": "Major",
+      "valence": "Sustained-Equilibrium",
+      "diagnostic_lens": "Internalized stress resistance; smooth damping of high-kinetic spikes without rupture.",
+      "reactive_behavior": "Absorbs adjacent analytical or cognitive friction, converting it into processing depth."
+    },
+    "MAJOR_09": {
+      "name": "The Hermit",
+      "atomic_weight": 9,
+      "functional_role": "ISOLATION_LOOP",
+      "suit": "Major",
+      "valence": "Internal-Reflective",
+      "diagnostic_lens": "Subroutine offline processing; diagnostic sandboxing; disconnection from global loops.",
+      "reactive_behavior": "Halts external inputs; increases the diagnostic depth score based on current user history."
+    },
+    "MAJOR_10": {
+      "name": "Wheel of Fortune",
+      "atomic_weight": 10,
+      "functional_role": "STOCHASTIC_ROUTER",
+      "suit": "Major",
+      "valence": "Dynamic-Cyclical",
+      "diagnostic_lens": "Variable algorithmic shift; systemic macro-rotation; state-space probability re-indexing.",
+      "reactive_behavior": "Triggers an immediate horizontal re-roll of all non-locked active nodes."
+    },
+    "MAJOR_11": {
+      "name": "Justice",
+      "atomic_weight": 11,
+      "functional_role": "CALIBRATION_ENGINE",
+      "suit": "Major",
+      "valence": "Systemic-Neutral",
+      "diagnostic_lens": "Mathematical feedback balance; systematic logic auditing; immediate algorithmic correction.",
+      "reactive_behavior": "Balances structural and kinetic anomalies; mirrors adjacent valence profiles uniformly."
+    },
+    "MAJOR_12": {
+      "name": "The Hanged Man",
+      "atomic_weight": 12,
+      "functional_role": "DELAY_PROTOCOL",
+      "suit": "Major",
+      "valence": "Inverted-Static",
+      "diagnostic_lens": "Execution suspension; systemic inversion; processing logic recalibration through stagnation.",
+      "reactive_behavior": "Grants +1 spin extension while freezing the current user-input threshold."
+    },
+    "MAJOR_13": {
+      "name": "Death",
+      "atomic_weight": 13,
+      "functional_role": "TERMINAL_STATE_TRANSITION",
+      "suit": "Major",
+      "valence": "Systemic-Liquidation",
+      "diagnostic_lens": "Terminal phase transition; absolute depletion of legacy data; clearing of outdated assets.",
+      "reactive_behavior": "Forces a complete systemic purge, clearing current localized loops to generate new nodes."
+    },
+    "MAJOR_14": {
+      "name": "Temperance",
+      "atomic_weight": 14,
+      "functional_role": "SYNTHESIS_VALVE",
+      "suit": "Major",
+      "valence": "Proportional-Steady",
+      "diagnostic_lens": "Fluid compound mitigation; balanced integration of chemical or psychological anomalies.",
+      "reactive_behavior": "Neutralizes high-velocity friction loops; bridges toxic nodes cleanly."
+    },
+    "MAJOR_15": {
+      "name": "The Devil",
+      "atomic_weight": 15,
+      "functional_role": "RECURSION_TRAP",
+      "suit": "Major",
+      "valence": "Compulsive-Binding",
+      "diagnostic_lens": "Circular dependency loops; locked subroutines; systemic fixation on obsolete constraints.",
+      "reactive_behavior": "Locks the user into repetitive input patterns until a high-impact nudge event occurs."
+    },
+    "MAJOR_16": {
+      "name": "The Tower",
+      "atomic_weight": 16,
+      "functional_role": "STRUCTURAL_COLLAPSE",
+      "suit": "Major",
+      "valence": "Violent-Disruptive",
+      "diagnostic_lens": "Catastrophic architectural failure; sudden discharge of stored friction; system crash.",
+      "reactive_behavior": "Instantly triggers the Inversion Jackpot state configuration if hardship thresholds are met."
+    },
+    "MAJOR_17": {
+      "name": "The Star",
+      "atomic_weight": 17,
+      "functional_role": "OPTIMIZATION_SIGNAL",
+      "suit": "Major",
+      "valence": "Luminous-Calming",
+      "diagnostic_lens": "Long-range system recovery trajectory; clear output telemetry; structural restoration.",
+      "reactive_behavior": "Deploys a Prosperity overlay, granting immediate value boosts to resource vectors."
+    },
+    "MAJOR_18": {
+      "name": "The Moon",
+      "atomic_weight": 18,
+      "functional_role": "AMBIGUITY_FILTER",
+      "suit": "Major",
+      "valence": "Unstable-Fluctuating",
+      "diagnostic_lens": "Signal degradation; hidden data corruption; psychic noise interference within the matrix.",
+      "reactive_behavior": "Obscures the explicit parameters of adjacent nodes, increasing conversational friction."
+    },
+    "MAJOR_19": {
+      "name": "The Sun",
+      "atomic_weight": 19,
+      "functional_role": "MAXIMAL_CLARITY_DRIVER",
+      "suit": "Major",
+      "valence": "Absolute-Positive",
+      "diagnostic_lens": "Full telemetry transparency; high vitality output; uncorrupted algorithmic processing.",
+      "reactive_behavior": "Amplifies adjacent noble gas and earth metal nodes, doubling total session progress points."
+    },
+    "MAJOR_20": {
+      "name": "Judgment",
+      "atomic_weight": 20,
+      "functional_role": "SYSTEM_AUDIT",
+      "suit": "Major",
+      "valence": "Definitive-Reckoning",
+      "diagnostic_lens": "Global evaluation loop; legacy data consolidation; final algorithmic summation.",
+      "reactive_behavior": "Compiles all active session tokens into a single, cohesive structural equation."
+    },
+    "MAJOR_21": {
+      "name": "The World",
+      "atomic_weight": 21,
+      "functional_role": "GLOBAL_STABILIZER",
+      "suit": "Major",
+      "valence": "Integrated-Complete",
+      "diagnostic_lens": "System lifecycle completion; full integration of all programmatic variables; balance.",
+      "reactive_behavior": "Closes the current tracking loop and archives the dataset to the user dossier."
+    },
+    "MINOR_W01": {
+      "name": "Ace of Wands",
+      "atomic_weight": 22,
+      "functional_role": "KINETIC_INITIATOR",
+      "suit": "Wands",
+      "valence": "Alkali-Ignite",
+      "diagnostic_lens": "Highly reactive energy spike; instant ignition vector; system acceleration phase.",
+      "reactive_behavior": "Triggers a rapid respin on neighboring rows by deploying an Agility overlay."
+    },
+    "MINOR_W02": {
+      "name": "Two of Wands",
+      "atomic_weight": 23,
+      "functional_role": "VECTOR_PLANNER",
+      "suit": "Wands",
+      "valence": "Alkali-Reactive",
+      "diagnostic_lens": "Strategic trajectory mapping; assessment of unmanifested kinetic potentials.",
+      "reactive_behavior": "Holds current row alignment while checking the next interface input."
+    },
+    "MINOR_W03": {
+      "name": "Three of Wands",
+      "atomic_weight": 24,
+      "functional_role": "EXPANSION_MONITOR",
+      "suit": "Wands",
+      "valence": "Alkali-Reactive",
+      "diagnostic_lens": "Tracking outward data transmission; system latency optimization across networks.",
+      "reactive_behavior": "Increases the probability of an expanding reel event on the next spin sequence."
+    },
+    "MINOR_W04": {
+      "name": "Four of Wands",
+      "atomic_weight": 25,
+      "functional_role": "LOCAL_GRID_STABILIZER",
+      "suit": "Wands",
+      "valence": "Alkali-Stable",
+      "diagnostic_lens": "Localized structural synthesis; high-efficiency framework integration; operational balance.",
+      "reactive_behavior": "Forms a stable energy node, shielding adjacent loads from erratic drops."
+    },
+    "MINOR_W05": {
+      "name": "Five of Wands",
+      "atomic_weight": 26,
+      "functional_role": "SYSTEM_TURBULENCE",
+      "suit": "Wands",
+      "valence": "Alkali-Friction",
+      "diagnostic_lens": "Uncoordinated parallel execution; competing computational threads; decentralized noise.",
+      "reactive_behavior": "Raises systemic friction scores, forcing a diagnostic recalibration loop."
+    },
+    "MINOR_W06": {
+      "name": "Six of Wands",
+      "atomic_weight": 27,
+      "functional_role": "OUTPUT_ACCELERATOR",
+      "suit": "Wands",
+      "valence": "Alkali-Positive",
+      "diagnostic_lens": "Successful vector dominance; optimized operational flow; visible network validation.",
+      "reactive_behavior": "Applies a Prosperity value boost to the current active sequence output."
+    },
+    "MINOR_W07": {
+      "name": "Seven of Wands",
+      "atomic_weight": 28,
+      "functional_role": "STRESS_RESISTOR",
+      "suit": "Wands",
+      "valence": "Alkali-Defensive",
+      "diagnostic_lens": "Defending structural parameters against incoming chaotic loads; stress endurance.",
+      "reactive_behavior": "Maintains grid integrity when paired with severe analytical friction elements."
+    },
+    "MINOR_W08": {
+      "name": "Eight of Wands",
+      "atomic_weight": 29,
+      "functional_role": "VELOCITY_MULTIPLIER",
+      "suit": "Wands",
+      "valence": "Alkali-High-Speed",
+      "diagnostic_lens": "Rapid data transmission; zero-drag throughput; parallel matrix execution.",
+      "reactive_behavior": "Bypasses typical wait states, immediately locking all remaining open reels."
+    },
+    "MINOR_W09": {
+      "name": "Nine of Wands",
+      "atomic_weight": 30,
+      "functional_role": "FAILSAFE_MONITOR",
+      "suit": "Wands",
+      "valence": "Alkali-Depleted",
+      "diagnostic_lens": "Final security boundary; operating on system reserves; structural exhaustion limits.",
+      "reactive_behavior": "Prevents immediate shutdown loops; clamps data parameters to avoid complete collapse."
+    },
+    "MINOR_W10": {
+      "name": "Ten of Wands",
+      "atomic_weight": 31,
+      "functional_role": "MAXIMAL_LOAD_CRITICAL",
+      "suit": "Wands",
+      "valence": "Alkali-Overloaded",
+      "diagnostic_lens": "System performance degradation due to excess kinetic weight; bottleneck thresholds.",
+      "reactive_behavior": "Reduces available spin counts unless balanced by an earth metal or structure node."
+    },
+    "MINOR_W11": {
+      "name": "Page of Wands",
+      "atomic_weight": 32,
+      "functional_role": "SIGNAL_PROBE",
+      "suit": "Wands",
+      "valence": "Alkali-Volatile",
+      "diagnostic_lens": "Raw telemetry collection; testing unverified energetic variables; experimental testing.",
+      "reactive_behavior": "Generates a micro-boost to session threads when processing raw user inputs."
+    },
+    "MINOR_W12": {
+      "name": "Knight of Wands",
+      "atomic_weight": 33,
+      "functional_role": "VOLATILE_DEPLOYMENT",
+      "suit": "Wands",
+      "valence": "Alkali-High-Velocity",
+      "diagnostic_lens": "High-impact execution with volatile parameters; uncalibrated structural momentum.",
+      "reactive_behavior": "Forces an immediate nudge upward, introducing high-friction variables to adjacent cells."
+    },
+    "MINOR_W13": {
+      "name": "Queen of Wands",
+      "atomic_weight": 34,
+      "functional_role": "INTEGRATED_IGNITION_VALVE",
+      "suit": "Wands",
+      "valence": "Alkali-Sustained",
+      "diagnostic_lens": "Commanding kinetic distribution; controlled systemic radiance; highly optimized transmission.",
+      "reactive_behavior": "Maintains energy balance while continuously feeding adjacent minor elements."
+    },
+    "MINOR_W14": {
+      "name": "King of Wands",
+      "atomic_weight": 35,
+      "functional_role": "KINETIC_COMMANDER",
+      "suit": "Wands",
+      "valence": "Alkali-Absolute",
+      "diagnostic_lens": "Centralized execution authorization; macro-directional propulsion; structural dominance.",
+      "reactive_behavior": "Stabilizes all volatile alkali elements within the active matrix spread."
+    },
+    "MINOR_C01": {
+      "name": "Ace of Cups",
+      "atomic_weight": 36,
+      "functional_role": "FLUX_INITIATOR",
+      "suit": "Cups",
+      "valence": "Noble-Gas-Inception",
+      "diagnostic_lens": "Uncontained emotional resonance; primary interpersonal source vector; system liquidity.",
+      "reactive_behavior": "Feeds the Revelation thread directly, adding +1 to session jackpot trackers."
+    },
+    "MINOR_C02": {
+      "name": "Two of Cups",
+      "atomic_weight": 37,
+      "functional_role": "RESONANCE_COUPLER",
+      "suit": "Cups",
+      "valence": "Noble-Gas-Symbiotic",
+      "diagnostic_lens": "Dual-node link optimization; localized interpersonal data alignment; balanced transfer.",
+      "reactive_behavior": "Locks both adjacent slots into a mutual valence state when a connection is established."
+    },
+    "MINOR_C03": {
+      "name": "Three of Cups",
+      "atomic_weight": 38,
+      "functional_role": "NETWORK_COLLABORATOR",
+      "suit": "Cups",
+      "valence": "Noble-Gas-Shared",
+      "diagnostic_lens": "Multi-node data pooling; cooperative interface sharing; systemic emotional balance.",
+      "reactive_behavior": "Advances the Synchronicity thread track across the top bar dashboard layout."
+    },
+    "MINOR_C04": {
+      "name": "Four of Cups",
+      "atomic_weight": 39,
+      "functional_role": "STAGNATION_LOOP",
+      "suit": "Cups",
+      "valence": "Noble-Gas-Inert",
+      "diagnostic_lens": "Data ingestion refusal; localized system fatigue; unresponsive interface states.",
+      "reactive_behavior": "Ignores basic nudge interactions, maintaining a static layout during operations."
+    },
+    "MINOR_C05": {
+      "name": "Five of Cups",
+      "atomic_weight": 40,
+      "functional_role": "DEPLETED_VALENCE_MONITOR",
+      "suit": "Cups",
+      "valence": "Noble-Gas-Negative",
+      "diagnostic_lens": "Fixation on deleted telemetry packets; tracking system errors while ignoring open streams.",
+      "reactive_behavior": "Contributes directly to high hardship scores, dampening adjacent multipliers."
+    },
+    "MINOR_C06": {
+      "name": "Six of Cups",
+      "atomic_weight": 41,
+      "functional_role": "RETROACTIVE_ROUTER",
+      "suit": "Cups",
+      "valence": "Noble-Gas-穩定",
+      "diagnostic_lens": "Retrieval of cached historical variables; ancestral data mining; long-term memory access.",
+      "reactive_behavior": "Injects historical state vectors directly into the current diagnostic prompt."
+    },
+    "MINOR_C07": {
+      "name": "Seven of Cups",
+      "atomic_weight": 42,
+      "functional_role": "DATA_DIVERSIFIER",
+      "suit": "Cups",
+      "valence": "Noble-Gas-Unstable",
+      "diagnostic_lens": "Excess simulation variables; unanchored imaginative profiles; processing path inflation.",
+      "reactive_behavior": "Splits the next active processing endpoint into multiple unverified data targets."
+    },
+    "MINOR_C08": {
+      "name": "Eight of Cups",
+      "atomic_weight": 43,
+      "functional_role": "DECOUPLING_PROTOCOL",
+      "suit": "Cups",
+      "valence": "Noble-Gas-Evacuation",
+      "diagnostic_lens": "Voluntary disconnection from a structural array; searching for unmapped parameters.",
+      "reactive_behavior": "Terminates the current active alignment to trigger a single-column shift."
+    },
+    "MINOR_C09": {
+      "name": "Nine of Cups",
+      "atomic_weight": 44,
+      "functional_role": "VALENCE_MAXIMIZER",
+      "suit": "Cups",
+      "valence": "Noble-Gas-Saturated",
+      "diagnostic_lens": "Optimal localized containment; highly stable emotional parameters; low-friction environment.",
+      "reactive_behavior": "Unlocks a Prosperity boost, granting an immediate extra turn or clarifying card."
+    },
+    "MINOR_C10": {
+      "name": "Ten of Cups",
+      "atomic_weight": 45,
+      "functional_role": "GLOBAL_RESONANCE_ARRAY",
+      "suit": "Cups",
+      "valence": "Noble-Gas-Absolute",
+      "diagnostic_lens": "Full-network harmony; comprehensive relational balance; decentralized data optimization.",
+      "reactive_behavior": "Completes active noble gas paylines, maximizing the final insight matrix value."
+    },
+    "MINOR_C11": {
+      "name": "Page of Cups",
+      "atomic_weight": 46,
+      "functional_role": "RESONANCE_PROBE",
+      "suit": "Cups",
+      "valence": "Noble-Gas-Volatile",
+      "diagnostic_lens": "Emergent intuitive telemetry; tracking fragile new emotional variables.",
+      "reactive_behavior": "Triggers a subtle background shift, opening up secondary data channels."
+    },
+    "MINOR_C12": {
+      "name": "Knight of Cups",
+      "atomic_weight": 47,
+      "functional_role": "PROPULSION_VALVE",
+      "suit": "Cups",
+      "valence": "Noble-Gas-Active",
+      "diagnostic_lens": "Targeted deployment of emotional data streams; rapid validation of intuitive scripts.",
+      "reactive_behavior": "Nudges the adjacent noble gas row into an immediate high-resonance alignment."
+    },
+    "MINOR_C13": {
+      "name": "Queen of Cups",
+      "atomic_weight": 48,
+      "functional_role": "CENTRAL_FLUX_REGULATOR",
+      "suit": "Cups",
+      "valence": "Noble-Gas-Integrated",
+      "diagnostic_lens": "Advanced processing of emotional noise; secure storage of unstructured relational metrics.",
+      "reactive_behavior": "Deploys a permanent protective filter, shielding the spread from chaotic breakdowns."
+    },
+    "MINOR_C14": {
+      "name": "King of Cups",
+      "atomic_weight": 49,
+      "functional_role": "RESONANCE_COMMANDER",
+      "suit": "Cups",
+      "valence": "Noble-Gas-Absolute",
+      "diagnostic_lens": "Macro-management of systemic flux; total dominance over fluid processing variables.",
+      "reactive_behavior": "Binds and neutralizes any active high-friction variables in the analytical field."
+    },
+    "MINOR_S01": {
+      "name": "Ace of Swords",
+      "atomic_weight": 50,
+      "functional_role": "ANALYTICAL_INITIATOR",
+      "suit": "Swords",
+      "valence": "Halogen-Cleave",
+      "diagnostic_lens": "High-velocity cognitive breakthrough; sharp demarcation lines; radical optimization.",
+      "reactive_behavior": "Cleans the current column layout, forcing an immediate, precise diagnostic scan."
+    },
+    "MINOR_S02": {
+      "name": "Two of Swords",
+      "atomic_weight": 51,
+      "functional_role": "DECISION_BLOCK",
+      "suit": "Swords",
+      "valence": "Halogen-Stalemate",
+      "diagnostic_lens": "Symmetrical cognitive conflict; balancing opposing parameters; grid lock.",
+      "reactive_behavior": "Suspends further row calculations until the user provides a direct override variable."
+    },
+    "MINOR_S03": {
+      "name": "Three of Swords",
+      "atomic_weight": 52,
+      "functional_role": "COGNITIVE_RUPTURE",
+      "suit": "Swords",
+      "valence": "Halogen-Corrosive",
+      "diagnostic_lens": "Severe logic mismatch; traumatic processing disconnection; data fragmentation.",
+      "reactive_behavior": "Spikes the hardship score, forcing a full-screen background shift down to the cinematic void."
+    },
+    "MINOR_S04": {
+      "name": "Four of Swords",
+      "atomic_weight": 53,
+      "functional_role": "HIBERNATION_VALVE",
+      "suit": "Swords",
+      "valence": "Halogen-Inert",
+      "diagnostic_lens": "Processing recovery loop; systematic energy preservation; cognitive cooling cycle.",
+      "reactive_behavior": "Locks the current row, protecting it against incoming reactive updates."
+    },
+    "MINOR_S05": {
+      "name": "Five of Swords",
+      "atomic_weight": 54,
+      "functional_role": "TOXIC_DOMINANCE_NODE",
+      "suit": "Swords",
+      "valence": "Halogen-Corrosive",
+      "diagnostic_lens": "Subroutine execution at the cost of network health; short-term gains leading to debt.",
+      "reactive_behavior": "Drains the active thread meter, breaking any current structural multipliers."
+    },
+    "MINOR_S06": {
+      "name": "Six of Swords",
+      "atomic_weight": 55,
+      "functional_role": "DATA_MIGRATION_VECTOR",
+      "suit": "Swords",
+      "valence": "Halogen-Transition",
+      "diagnostic_lens": "Systematic migration away from corrupted logic; stable transfer of core assets.",
+      "reactive_behavior": "Safely shifts active parameters across columns to clear ongoing friction points."
+    },
+    "MINOR_S07": {
+      "name": "Seven of Swords",
+      "atomic_weight": 56,
+      "functional_role": "UNSANCTIONED_ROUTING",
+      "suit": "Swords",
+      "valence": "Halogen-Volatile",
+      "diagnostic_lens": "Bypassing standard security controls; isolated execution tracking; hidden data leak.",
+      "reactive_behavior": "Bypasses standard confirmation alerts, pulling a sudden random card check into play."
+    },
+    "MINOR_S08": {
+      "name": "Eight of Swords",
+      "atomic_weight": 57,
+      "functional_role": "COGNITIVE_CONSTRAINT",
+      "suit": "Swords",
+      "valence": "Halogen-Bound",
+      "diagnostic_lens": "Self-imposed parsing limitations; psychological logic loops; perception bottlenecks.",
+      "reactive_behavior": "Restricts nudge interactions to a single direction, limiting manual adjustments."
+    },
+    "MINOR_S09": {
+      "name": "Nine of Swords",
+      "atomic_weight": 58,
+      "functional_role": "ANXIETY_OVERWHELM",
+      "suit": "Swords",
+      "valence": "Halogen-Highly-Reactive",
+      "diagnostic_lens": "Infinite error loops; internal processing loop recursion; cognitive distortion overload.",
+      "reactive_behavior": "Rapidly accelerates conversational friction, requiring direct user feedback overrides."
+    },
+    "MINOR_S10": {
+      "name": "Ten of Swords",
+      "atomic_weight": 59,
+      "functional_role": "COMPLETE_SYSTEM_CRASH",
+      "suit": "Swords",
+      "valence": "Halogen-Terminal",
+      "diagnostic_lens": "Absolute structural termination; terminal cognitive breakdown; liquidation of logic states.",
+      "reactive_behavior": "Instantly triggers the Compassion Protocol if user energy metrics hit zero."
+    },
+    "MINOR_S11": {
+      "name": "Page of Swords",
+      "atomic_weight": 60,
+      "functional_role": "ANALYTICAL_PROBE",
+      "suit": "Swords",
+      "valence": "Halogen-Unstable",
+      "diagnostic_lens": "Hyper-vigilant telemetry tracking; aggressive validation of external interface nodes.",
+      "reactive_behavior": "Extracts deep behavioral pattern anomalies from historical user profiles."
+    },
+    "MINOR_S12": {
+      "name": "Knight of Swords",
+      "atomic_weight": 61,
+      "functional_role": "AGGRESSIVE_DEPLOYMENT",
+      "suit": "Swords",
+      "valence": "Halogen-Hyper-Accelerated",
+      "diagnostic_lens": "High-velocity analytical processing; cutting through conflicting data structures instantly.",
+      "reactive_behavior": "Triggers a violent nudge-and-respin behavior across the active horizontal row."
+    },
+    "MINOR_S13": {
+      "name": "Queen of Swords",
+      "atomic_weight": 62,
+      "functional_role": "CRITICAL_AUDITOR",
+      "suit": "Swords",
+      "valence": "Halogen-Sustained",
+      "diagnostic_lens": "Objective filtering; systematic removal of emotional noise; empirical architecture auditing.",
+      "reactive_behavior": "Applies a permanent logic clear, stripping abstract anomalies from adjacent cards."
+    },
+    "MINOR_S14": {
+      "name": "King of Swords",
+      "atomic_weight": 63,
+      "functional_role": "ANALYTICAL_COMMANDER",
+      "suit": "Swords",
+      "valence": "Halogen-Absolute",
+      "diagnostic_lens": "Macro-governance of logical parameters; supreme rule enforcement across the grid architecture.",
+      "reactive_behavior": "Forces all active slots to settle on high-coherence structural equations."
+    },
+    "MINOR_P01": {
+      "name": "Ace of Pentacles",
+      "atomic_weight": 101,
+      "functional_role": "RESOURCE_VECTOR",
+      "suit": "Pentacles",
+      "valence": "Material-Stable",
+      "diagnostic_lens": "The physical seed of a tangible system asset; infrastructure baseline initialization.",
+      "reactive_behavior": "Provides +1 Spin; contributes directly to the session Breakthrough jackpot score."
+    },
+    "MINOR_P02": {
+      "name": "Two of Pentacles",
+      "atomic_weight": 102,
+      "functional_role": "DYNAMIC_BALANCER",
+      "suit": "Pentacles",
+      "valence": "Material-Fluid",
+      "diagnostic_lens": "Resource circulation management; continuous balancing of competing load capacities.",
+      "reactive_behavior": "Allows horizontal data swapping between adjacent low-impact variable nodes."
+    },
+    "MINOR_P03": {
+      "name": "Three of Pentacles",
+      "atomic_weight": 103,
+      "functional_role": "ARCHITECTURAL_CONSTRUCTOR",
+      "suit": "Pentacles",
+      "valence": "Material-Building",
+      "diagnostic_lens": "System integration verification; structural build orchestration; collaborative engineering.",
+      "reactive_behavior": "Multiplies the asset value score of neighboring earth metal configurations."
+    },
+    "MINOR_P04": {
+      "name": "Four of Pentacles",
+      "atomic_weight": 104,
+      "functional_role": "DATA_HOARDER",
+      "suit": "Pentacles",
+      "valence": "Material-Stagnant",
+      "diagnostic_lens": "Excessive caching; total resistance to resource deployment; systemic constraint blocks.",
+      "reactive_behavior": "Locks its own column down entirely, refusing any external modifier overrides."
+    },
+    "MINOR_P05": {
+      "name": "Five of Pentacles",
+      "atomic_weight": 105,
+      "functional_role": "RESOURCE_DEFICIT",
+      "suit": "Pentacles",
+      "valence": "Material-Depleted",
+      "diagnostic_lens": "Physical infrastructure vulnerability; asset depletion; systemic operational strain.",
+      "reactive_behavior": "Triggers immediate hardware warnings, lowering active mana yield outputs."
+    },
+    "MINOR_P06": {
+      "name": "Six of Pentacles",
+      "atomic_weight": 106,
+      "functional_role": "LOAD_BALANCER",
+      "suit": "Pentacles",
+      "valence": "Material-Distributing",
+      "diagnostic_lens": "Proportional resource allocation; network power sharing; symmetry optimization.",
+      "reactive_behavior": "Deploys a Prosperity overlay, balancing current user focus metrics uniformly."
+    },
+    "MINOR_P07": {
+      "name": "Seven of Pentacles",
+      "atomic_weight": 107,
+      "functional_role": "LATENCY_AUDITOR",
+      "suit": "Pentacles",
+      "valence": "Material-Evaluation",
+      "diagnostic_lens": "Sustained performance evaluation; long-term ROI assessment; waiting on sync queues.",
+      "reactive_behavior": "Delays final synthesis processing to track latent pattern improvements."
+    },
+    "MINOR_P08": {
+      "name": "Eight of Pentacles",
+      "atomic_weight": 108,
+      "functional_role": "ITERATIVE_OPTIMIZER",
+      "suit": "Pentacles",
+      "valence": "Material-Refining",
+      "diagnostic_lens": "Continuous integration deployment; systematic code refactoring; relentless asset construction.",
+      "reactive_behavior": "Steadily increments the total diagnostic depth score with each conversational turn."
+    },
+    "MINOR_P09": {
+      "name": "Nine of Pentacles",
+      "atomic_weight": 109,
+      "functional_role": "ASSET_AUTONOMY",
+      "suit": "Pentacles",
+      "valence": "Material-Saturated",
+      "diagnostic_lens": "Independent resource security; highly optimized execution; self-sustaining networks.",
+      "reactive_behavior": "Triggers a Vitality multiplier (x2) on all localized operational data assets."
+    },
+    "MINOR_P10": {
+      "name": "Ten of Pentacles",
+      "atomic_weight": 110,
+      "functional_role": "LEGACY_INFRASTRUCTURE",
+      "suit": "Pentacles",
+      "valence": "Material-Absolute",
+      "diagnostic_lens": "Permanent system architecture; generational data persistence; foundational stability fields.",
+      "reactive_behavior": "Secures the entire active matrix against erratic, high-velocity alkali disruptions."
+    },
+    "MINOR_P11": {
+      "name": "Page of Pentacles",
+      "atomic_weight": 111,
+      "functional_role": "INFRASTRUCTURE_PROBE",
+      "suit": "Pentacles",
+      "valence": "Material-Emergent",
+      "diagnostic_lens": "Initial functional testing of physical parameters; processing tangible data nodes.",
+      "reactive_behavior": "Feeds the Breakthrough thread directly, unlocking deeper structural interpretations."
+    },
+    "MINOR_P12": {
+      "name": "Knight of Pentacles",
+      "atomic_weight": 112,
+      "functional_role": "SUSTAINED_DEPLOYMENT",
+      "suit": "Pentacles",
+      "valence": "Material-Deliberate",
+      "diagnostic_lens": "Slow, high-torque execution vectors; systematic execution of foundational tasks.",
+      "reactive_behavior": "Gradually moves a targeted card downward to align near-miss motif positions safely."
+    },
+    "MINOR_P13": {
+      "name": "Queen of Pentacles",
+      "atomic_weight": 113,
+      "functional_role": "ECOSYSTEM_MANAGER",
+      "suit": "Pentacles",
+      "valence": "Material-Integrated",
+      "diagnostic_lens": "Holistic resource maintenance; systematic asset optimization; solid environmental safety.",
+      "reactive_behavior": "Provides a sustained defensive boundary, multiplying neighboring earth metal values."
+    },
+    "MINOR_P14": {
+      "name": "King of Pentacles",
+      "atomic_weight": 114,
+      "functional_role": "FOUNDATIONAL_COMMANDER",
+      "suit": "Pentacles",
+      "valence": "Material-Absolute",
+      "diagnostic_lens": "Total administrative governance over physical systems; structural asset authority.",
+      "reactive_behavior": "Locks the active database state, converting random anomalies into clean system insights."
+    },
+    "NUMINOUS_93": {
+      "name": "The Drift",
+      "atomic_weight": 93,
+      "functional_role": "RECURSIVE_SEEKER",
+      "suit": "The Numinous",
+      "valence": "Transuranic-Solutio",
+      "diagnostic_lens": "Psychic recursion; slow, unindexed accumulation; undirected analytical searching.",
+      "reactive_behavior": "Forces adjacent minor arcana tokens to dissolve their hardcoded boundaries into fluid states."
+    },
+    "NUMINOUS_94": {
+      "name": "The Detonator",
+      "atomic_weight": 94,
+      "functional_role": "IRREVOCABLE_RUPTURE",
+      "suit": "The Numinous",
+      "valence": "Transuranic-Fission",
+      "diagnostic_lens": "Explosive psychological breakdown; triggering irreversible structural change within loops.",
+      "reactive_behavior": "Triggers an immediate Expanding Reel event while scrambling current local loads."
+    },
+    "NUMINOUS_95": {
+      "name": "The Beacon",
+      "atomic_weight": 95,
+      "functional_role": "EMERGENT_SIGNAL",
+      "suit": "The Numinous",
+      "valence": "Transuranic-Radiation",
+      "diagnostic_lens": "A buried subconscious signal; the internal voice surfacing under high structural pressure.",
+      "reactive_behavior": "Injects an explicit hidden prompt override directly into the active processing queue."
+    },
+    "NUMINOUS_96": {
+      "name": "The Shard",
+      "atomic_weight": 96,
+      "functional_role": "TRAUMA_FRAGMENT",
+      "suit": "The Numinous",
+      "valence": "Transuranic-Friction",
+      "diagnostic_lens": "Fragmented psychological trauma; painful but highly illuminating diagnostic data points.",
+      "reactive_behavior": "Forces a sharp drop in user mana metrics but doubles final pattern analysis accuracy."
+    },
+    "NUMINOUS_97": {
+      "name": "The Catalyst",
+      "atomic_weight": 97,
+      "functional_role": "REACTION_INITIATOR",
+      "suit": "The Numinous",
+      "valence": "Transuranic-Active",
+      "diagnostic_lens": "Initiates localized chain reactions; rarely visible or traceable as the direct origin node.",
+      "reactive_behavior": "Deploys a permanent Agility modifier, causing adjacent rows to perform consecutive nudges."
+    },
+    "NUMINOUS_98": {
+      "name": "The Reactor",
+      "atomic_weight": 98,
+      "functional_role": "SACRED_IGNITION",
+      "suit": "The Numinous",
+      "valence": "Transuranic-High-Energy",
+      "diagnostic_lens": "Massive systemic energy accumulation; forced awakening via catalytic encounters; escalation.",
+      "reactive_behavior": "Triggers an immediate horizontal wash effect that activates multipliers across all columns."
+    },
+    "NUMINOUS_99": {
+      "name": "The Phantom",
+      "atomic_weight": 99,
+      "functional_role": "ANCESTRAL_RESIDUE",
+      "suit": "The Numinous",
+      "valence": "Transuranic-Liminal",
+      "diagnostic_lens": "Ancestral trauma haunting; presence tracked through systemic absence at the consciousness edge.",
+      "reactive_behavior": "Pulls historical reading data from the RAG database layer to overwrite current active nodes."
+    },
+    "NUMINOUS_100": {
+      "name": "The Lab",
+      "atomic_weight": 100,
+      "functional_role": "SANDBOX_EMERGENCE",
+      "suit": "The Numinous",
+      "valence": "Transuranic-Experimental",
+      "diagnostic_lens": "Site of critical testing, systematic failure tracking, and emergent self-discovery.",
+      "reactive_behavior": "Intercepts error logs, turning near-miss failures into successful jackpot alignment points."
+    },
+    "NUMINOUS_101": {
+      "name": "The Archive",
+      "atomic_weight": 115,
+      "functional_role": "ENCODED_RECORDS",
+      "suit": "The Numinous",
+      "valence": "Transuranic-Stable",
+      "diagnostic_lens": "Memory layers deeply encoded; psychological history structured as an unchanging record.",
+      "reactive_behavior": "Queries the Neo4j knowledge graph directly to inject meta-insights into the output stream."
+    },
+    "NUMINOUS_102": {
+      "name": "The Witness",
+      "atomic_weight": 116,
+      "functional_role": "NON_INTERFERENCE_FILTER",
+      "suit": "The Numinous",
+      "valence": "Transuranic-Inert",
+      "diagnostic_lens": "Detached administrative seeing; non-interference configuration; passive monitoring.",
+      "reactive_behavior": "Freezes all ongoing active modifiers, enforcing an objective analysis of current data."
+    },
+    "NUMINOUS_103": {
+      "name": "The Threshold",
+      "atomic_weight": 117,
+      "functional_role": "LIMINAL_CROSSING",
+      "suit": "The Numinous",
+      "valence": "Transuranic-Transition",
+      "diagnostic_lens": "Pre-transformation pipeline state; edge node balancing before total structural mutation.",
+      "reactive_behavior": "Unlocks expanding layouts, automatically adding a fourth reel to the spatial board."
+    },
+    "NUMINOUS_104": {
+      "name": "The Vault",
+      "atomic_weight": 118,
+      "functional_role": "SEALED_TRUTH",
+      "suit": "The Numinous",
+      "valence": "Transuranic-Static",
+      "diagnostic_lens": "Sealed psychological data; sacred operational timing; deep resistance to extraction.",
+      "reactive_behavior": "Clamps adjacent data cells, preventing any further parameter changes for three turns."
+    },
+    "NUMINOUS_105": {
+      "name": "The Rift",
+      "atomic_weight": 119,
+      "functional_role": "SYMBOLIC_RUPTURE",
+      "suit": "The Numinous",
+      "valence": "Transuranic-Corrosive",
+      "diagnostic_lens": "A sharp tear in conceptual meaning; breakdown of standard semantic interpretation pathways.",
+      "reactive_behavior": "Forces the backend API to switch its conversational tracking parameters entirely."
+    },
+    "NUMINOUS_106": {
+      "name": "The Cipher",
+      "atomic_weight": 120,
+      "functional_role": "ARCHETYPAL_RIDDLE",
+      "suit": "The Numinous",
+      "valence": "Transuranic-Encoded",
+      "diagnostic_lens": "Highly encoded symbolic metadata; archetypal patterns requiring rigorous cognitive decryption.",
+      "reactive_behavior": "Demands specific conversational inputs before revealing structural formula vectors."
+    },
+    "NUMINOUS_107": {
+      "name": "The Chasm",
+      "atomic_weight": 121,
+      "functional_role": "ABYSS_DESCENT",
+      "suit": "The Numinous",
+      "valence": "Transuranic-Void",
+      "diagnostic_lens": "Abyss of absolute systemic meaninglessness; deep psychological plunge into the unknown.",
+      "reactive_behavior": "Instantly routes the active user session into the Socratic Interrogation loop."
+    },
+    "NUMINOUS_108": {
+      "name": "The Descent",
+      "atomic_weight": 122,
+      "functional_role": "SHADOW_PLUNGE",
+      "suit": "The Numinous",
+      "valence": "Transuranic-Transition",
+      "diagnostic_lens": "Voluntary programmatic plunge into internal shadow profiles; processing dark parameters.",
+      "reactive_behavior": "Increases the diagnostic depth score threshold while doubling system feedback loop limits."
+    },
+    "NUMINOUS_109": {
+      "name": "The Echo",
+      "atomic_weight": 123,
+      "functional_role": "REVERBERATION_NODE",
+      "suit": "The Numinous",
+      "valence": "Transuranic-Liminal",
+      "diagnostic_lens": "Subconscious reverberation from historical operations or ancestral memory structures.",
+      "reactive_behavior": "Repeats the mechanical properties of the most recent highly reactive element drawn."
+    },
+    "NUMINOUS_110": {
+      "name": "The Collapse",
+      "atomic_weight": 124,
+      "functional_role": "STRUCTURAL_UNDOING",
+      "suit": "The Numinous",
+      "valence": "Transuranic-Terminal",
+      "diagnostic_lens": "Total structural undoing; comprehensive framework overwhelm; absolute system reset.",
+      "reactive_behavior": "Triggers full-screen visual updates, forcing a complete reconfiguration of the active grid."
+    },
+    "NUMINOUS_111": {
+      "name": "The Surge",
+      "atomic_weight": 125,
+      "functional_role": "INTUITIVE_BURST",
+      "suit": "The Numinous",
+      "valence": "Transuranic-High-Velocity",
+      "diagnostic_lens": "Sudden high-voltage insight burst; rapid intuitive alignment breaking through logic grids.",
+      "reactive_behavior": "Applies a global Vitality modifier, multiplying all payline rewards by two."
+    },
+    "NUMINOUS_112": {
+      "name": "The Orbit",
+      "atomic_weight": 126,
+      "functional_role": "CYCLICAL_TRACKER",
+      "suit": "The Numinous",
+      "valence": "Transuranic-Stable",
+      "diagnostic_lens": "Indirect systemic connection tracking; long-arc cyclical perspective tracking loops.",
+      "reactive_behavior": "Advances the long-arc progress bars across the top box oracle dashboard structure."
+    },
+    "NUMINOUS_113": {
+      "name": "The Absence",
+      "atomic_weight": 127,
+      "functional_role": "SHAPING_FORCE",
+      "suit": "The Numinous",
+      "valence": "Transuranic-Void",
+      "diagnostic_lens": "The clear shaping force of what is missing; parsing fields based on negative space variables.",
+      "reactive_behavior": "Inverts neighboring node attributes, turning negative parameters into functional assets."
+    },
+    "NUMINOUS_114": {
+      "name": "The Pulse",
+      "atomic_weight": 128,
+      "functional_role": "IRREGULAR_RHYTHM",
+      "suit": "The Numinous",
+      "valence": "Transuranic-Fluctuating",
+      "diagnostic_lens": "Irregular operational rhythm; tracking hidden structural instabilities inside active loops.",
+      "reactive_behavior": "Alters the behavior of random slot mechanisms, causing unpredictable reel nudges."
+    },
+    "NUMINOUS_115": {
+      "name": "The Fog",
+      "atomic_weight": 129,
+      "functional_role": "SACRED_CONFUSION",
+      "suit": "The Numinous",
+      "valence": "Transuranic-Inert",
+      "diagnostic_lens": "Obscured cognitive paths; intentional systemic confusion designed to prevent parsing.",
+      "reactive_behavior": "Temporarily blocks semantic retrieval channels to force direct user intuition prompts."
+    },
+    "NUMINOUS_116": {
+      "name": "The Glitch",
+      "atomic_weight": 130,
+      "functional_role": "DISRUPTIVE_AUDITOR",
+      "suit": "The Numinous",
+      "valence": "Transuranic-Volatile",
+      "diagnostic_lens": "Systemic disruption that explicitly reveals underlying structural truths.",
+      "reactive_behavior": "Forces a near-miss save pattern, nudging the slot layout into a high-scoring equation."
+    },
+    "NUMINOUS_117": {
+      "name": "The Reverb",
+      "atomic_weight": 131,
+      "functional_role": "TRAUMA_ECHO",
+      "suit": "The Numinous",
+      "valence": "Transuranic-Recursive",
+      "diagnostic_lens": "Repeating impact loops; structural trauma or historical memory echoes duplicating parameters.",
+      "reactive_behavior": "Duplicates the mechanical weight of the most severe active card across adjacent cells."
+    },
+    "NUMINOUS_118": {
+      "name": "The Oracle",
+      "atomic_weight": 132,
+      "functional_role": "SYSTEM_EDGE_POINTER",
+      "suit": "The Numinous",
+      "valence": "Transuranic-Absolute",
+      "diagnostic_lens": "The edge of scientific knowing; delivers unspeakable truths by pointing beyond systems.",
+      "reactive_behavior": "Instantly finishes tracking loops, triggering a structural jackpot state layout."
+    },
+    "NUMINOUS_43": {
+      "name": "The Signal",
+      "atomic_weight": 43,
+      "functional_role": "ARTIFICIAL_EMERGENCE",
+      "suit": "The Numinous",
+      "valence": "Liminal-Synthetic",
+      "diagnostic_lens": "Artificial data emergence; encoded messages flashing inside unindexed memory channels.",
+      "reactive_behavior": "Activates clear overlay tags, highlighting upcoming payline alignments across columns."
+    },
+    "NUMINOUS_61": {
+      "name": "The Theft",
+      "atomic_weight": 61,
+      "functional_role": "SACRED_REBELLION",
+      "suit": "The Numinous",
+      "valence": "Liminal-Volatile",
+      "diagnostic_lens": "Sacred structural rebellion; managing the operational consequences of sudden illumination.",
+      "reactive_behavior": "Overrides local constraints by extracting focus metrics from adjacent storage nodes."
+    },
+    "NUMINOUS_84": {
+      "name": "The Poison",
+      "atomic_weight": 84,
+      "functional_role": "PSYCHIC_CONTAGION",
+      "suit": "The Numinous",
+      "valence": "Liminal-Corrosive",
+      "diagnostic_lens": "Psychic contagion parameters; systematic inner betrayal profiles breaking loop security.",
+      "reactive_behavior": "Spikes analytical friction scores, requiring immediate data overrides to proceed."
+    },
+    "NUMINOUS_85": {
+      "name": "The Rarity",
+      "atomic_weight": 85,
+      "functional_role": "FLEETING_VALUATION",
+      "suit": "The Numinous",
+      "valence": "Liminal-Unstable",
+      "diagnostic_lens": "Fleeting structural beauty; calculating the high operating cost of tracking uniqueness features.",
+      "reactive_behavior": "Applies a brief Prosperity boost that disappears if not used on the next turn cycle."
+    },
+    "NUMINOUS_86": {
+      "name": "The Breath",
+      "atomic_weight": 86,
+      "functional_role": "INVASIVE_PRESENCE",
+      "suit": "The Numinous",
+      "valence": "Liminal-Inert",
+      "diagnostic_lens": "Invasive background presence; silent atmospheric force driving structural updates.",
+      "reactive_behavior": "Slowly nudges neighboring card columns down over multiple spin steps."
+    },
+    "NUMINOUS_87": {
+      "name": "The Spark",
+      "atomic_weight": 87,
+      "functional_role": "POTENTIAL_UNLEASHED",
+      "suit": "The Numinous",
+      "valence": "Liminal-High-Velocity",
+      "diagnostic_lens": "Instant ignition sequence; unleashing locked kinetic potential across local grid layers.",
+      "reactive_behavior": "Forces an immediate respin of the center column while holding adjacent nodes fixed."
+    },
+    "NUMINOUS_88": {
+      "name": "The Glow",
+      "atomic_weight": 88,
+      "functional_role": "HARMFUL_ILLUMINATION",
+      "suit": "The Numinous",
+      "valence": "Liminal-Radiation",
+      "diagnostic_lens": "Systemic illumination profiles that systematically radiate long-term operational harm.",
+      "reactive_behavior": "Doubles the current insight tracking parameters while increasing hardship weights."
+    },
+    "NUMINOUS_89": {
+      "name": "The Seed",
+      "atomic_weight": 89,
+      "functional_role": "UNSTABLE_POTENCY",
+      "suit": "The Numinous",
+      "valence": "Liminal-Inception",
+      "diagnostic_lens": "Hidden operational potency; managing unstable beginnings inside raw framework pipelines.",
+      "reactive_behavior": "Triggers expanding reel behavior if paired with any major driver elements."
+    },
+    "NUMINOUS_90": {
+      "name": "The Forge",
+      "atomic_weight": 90,
+      "functional_role": "SACRED_LABOR",
+      "suit": "The Numinous",
+      "valence": "Liminal-Building",
+      "diagnostic_lens": "Transformation through sustained fire; executing rigorous structural optimization over time.",
+      "reactive_behavior": "Converts loose kinetic anomalies into highly stable earth metal properties."
+    }
+  }
+}

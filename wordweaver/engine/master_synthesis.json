@@ -1,0 +1,704 @@
+{
+  "MAJOR_00": {
+    "key": "MAJOR_00",
+    "name": "The Fool",
+    "class": "Potentiality Matrix",
+    "thesis": "The unblemished canvas of infinite possibility, embracing the courageous leap into the unknown, trusting the innate impulse towards becoming and the boundless freedom of the initial step.",
+    "antithesis": "The existential paralysis born from boundless choice, resulting in aimless wandering, a fear of commitment, or the stubborn refusal to actualize potential out of fear of limitation or definition.",
+    "synthesis_artifact": "The alchemical forging of purposeful intent from pure potential, manifesting as the conscious initiation of a unique journey, informed by intuition yet grounded in courageous, self-directed action.",
+    "visual_animation_prompt": "The card's background grid executes a 'World Folding' 180-degree rotation, revealing new spatial dimensions and hinting at alternate realities. Simultaneously, the central metallic bas-relief subtly shifts: its initial vibrant, hopeful depiction of 'The Absolute Potential' distorts with a strained, almost pained expression, embodying the Antithesis. This transformation is accompanied by iridescent neon fractal lines emanating from the bas-relief, tracing dynamic pathways between the shifting forms, signifying the emergence of structural tension from the underlying potential."
+  },
+  "MAJOR_01": {
+    "key": "MAJOR_01",
+    "name": "The Magician",
+    "class": "Gnostic Catalyst",
+    "thesis": "The conscious pursuit of esoteric knowledge and the unveiling of hidden truths through disciplined introspection and ancient wisdom, leading to profound insight and mastery over subtle realities.",
+    "antithesis": "The intellectual isolation and hubris stemming from an over-reliance on abstract knowledge, fostering detachment from present reality, hoarding of wisdom, and manipulation for personal gain.",
+    "synthesis_artifact": "Integrated Wisdom: The practical application of profound insights to foster collective understanding, bridging the gap between esoteric knowledge and lived experience for holistic growth.",
+    "visual_animation_prompt": "The display initiates with a 'World Folding' 180-degree grid rotation, revealing a metallic bas-relief. The 'Margaret Thatcher Effect' subtly shifts the bas-relief from its serene, upright Thesis depiction of cosmic wisdom and an open eye to a strained, contorted Antithesis, where knowledge appears fragmented and contained. This transformation is dynamically underscored by neon fractal lines that trace the neural pathways between these two states, culminating in a shimmering, unified symbol of integrated insight."
+  },
+  "MAJOR_02": {
+    "key": "MAJOR_02",
+    "name": "The High Priestess",
+    "class": "Epistemic Navigator",
+    "thesis": "The crystalline clarity of prescient insight, revealing universal patterns and guiding towards profound understanding.",
+    "antithesis": "The overwhelming burden of foreknowledge, leading to fatalistic inaction or the manipulative distortion of truth.",
+    "synthesis_artifact": "Conscious Embodiment of Insight: Transforming revealed truths into responsible, agentic action that shapes reality.",
+    "visual_animation_prompt": "The card, initially depicting a serene, multi-faceted eye gazing into a cosmic tapestry (representing the Thesis), activates. The background grid of reality initiates a 'World Folding' 180-degree rotation. Concurrently, the central metallic bas-relief of the eye undergoes the 'Margaret Thatcher Effect': its serene, knowing gaze subtly shifts and strains, fracturing into a more burdened, fragmented, or even manipulative depiction of foresight (representing the Antithesis). This transformation is dynamically traced and connected by vibrant, neon fractal lines that bloom and recede, illustrating the tension between pure insight and its shadow."
+  },
+  "MAJOR_03": {
+    "key": "MAJOR_03",
+    "name": "The Empress",
+    "class": "Generative Pattern Alchemist",
+    "thesis": "The conscious cultivation of self-sustaining systems; the elegant manifestation of inherent potential through mindful design and harmonious growth.",
+    "antithesis": "The rigid adherence to an idealized blueprint, leading to sterile perfection or unchecked, chaotic proliferation. A refusal to adapt, prune, or embrace the natural cycles of decay and renewal.",
+    "synthesis_artifact": "The dynamic wisdom of adaptive design; the integration of generative creation with iterative refinement, allowing for conscious pruning and harmonious evolution of living structures and personal frameworks.",
+    "visual_animation_prompt": "The UI initiates with a 'World Folding' 180-degree grid rotation, revealing the card's core. A metallic bas-relief depicts a poised High Elf architect overseeing a vibrant, perfectly balanced verdant lattice, glowing with intricate patterns (Thesis). As the 'Margaret Thatcher Effect' takes hold, the relief subtly shifts: the verdant lattice either becomes aggressively overgrown, its tendrils suffocating, or it warps into brittle, crystalline structures, cracking under an imposed, unyielding perfection. The architect's expression subtly strains, reflecting this imbalance. Neon fractal lines emerge, tracing the tension and transformation across the shifting metallic surface, connecting the ideal form to its distorted shadow."
+  },
+  "MAJOR_04": {
+    "key": "MAJOR_04",
+    "name": "The Emperor",
+    "class": "Architectonic Persistence",
+    "thesis": "The disciplined establishment and maintenance of enduring systems; the unwavering will to manifest and sustain a vision of order and mastery across time.",
+    "antithesis": "The tyrannical grip of an obsolete order; the pathological fear of change leading to the draining of vitality for the perpetual, mummified preservation of a dying form or dogma.",
+    "synthesis_artifact": "The Adaptive Stewardship of Legacy: The wisdom to discern which structures must endure, which must transform, and which must dissolve, allowing for renewal and the evolutionary perpetuation of true purpose.",
+    "visual_animation_prompt": "The UI initiates with a 'World Folding' 180-degree grid rotation, revealing a metallic bas-relief. The relief depicts 'The Immutable Regent' in their upright Thesis: a stately, commanding figure meticulously overseeing the construction of a vast, crystalline citadel. As the animation progresses, the 'Margaret Thatcher Effect' subtly shifts the relief to its strained Antithesis: the citadel cracks, revealing the figure as skeletal, their gaze fixed on clinging to crumbling, oppressive foundations, grasping desperately. Neon fractal lines erupt from the fracturing form, highlighting the tension between enduring purpose and calcified control."
+  },
+  "MAJOR_05": {
+    "key": "MAJOR_05",
+    "name": "The Hierophant",
+    "class": "Epistemic Architect",
+    "thesis": "The conscious structuring of collective wisdom into coherent ethical and spiritual frameworks, providing guidance and communal understanding.",
+    "antithesis": "The oppressive weight of unchallenged dogma; the calcification of tradition into rigid orthodoxy that stifles individual inquiry and adaptation.",
+    "synthesis_artifact": "The emergent capacity for critical discernment and adaptive re-interpretation, allowing inherited wisdom to dynamically inform personal and collective evolution without rigid constraint.",
+    "visual_animation_prompt": "The UI initiates with a majestic, interwoven bas-relief representing 'The Interpretive Scaffolding,' comprised of ancient texts and geometric symbols, bathed in a soft, guiding light. The 'World Folding' grid rotation then begins, shifting 180 degrees. Simultaneously, the 'Margaret Thatcher Effect' activates, causing the metallic bas-relief to subtly contort and crack, transforming its ordered structure into a strained, cage-like framework of rigid, interlocking dogmas, shrouded in shadow. Neon fractal lines erupt from these fissures, illustrating the tension between the Thesis and Antithesis during this transition."
+  },
+  "MAJOR_06": {
+    "key": "MAJOR_06",
+    "name": "The Lovers",
+    "class": "Ideal Manifestation Matrix",
+    "thesis": "The deliberate cultivation of an aesthetic reality, drawing forth ideal forms through persuasive artistry and harmonic intent, fostering genuine connection and shared vision.",
+    "antithesis": "The intoxicating grip of external validation, where authenticity is sacrificed for the transient approval of a projected ideal, leading to an echoing void of superficiality and manipulative illusion.",
+    "synthesis_artifact": "Authentic Allure: The capacity to manifest profound beauty and inspire genuine connection, anchored in self-awareness and transparent intent, transcending the need for external validation to embrace true resonance.",
+    "visual_animation_prompt": "The UI animation initiates with the 'World Folding' 180-degree grid rotation, revealing an intricate, iridescent bas-relief. As the rotation settles, the 'Margaret Thatcher Effect' subtly activates: the metallic bas-relief, initially depicting the harmonious 'Ideal Form' of the Thesis (a radiant, perfectly symmetrical elven crystal or a blossoming, enchanted rose), slowly distorts and strains. Its polished surface dulls, the symmetrical forms subtly warp, and fine, almost imperceptible fissures emerge, reflecting the 'Intoxicating Grip of External Validation' of the Antithesis. This transformation is visually connected and reinforced by an interwoven network of shimmering, emerald-green and violet neon fractal lines, highlighting the tension and emergent patterns between the two states."
+  },
+  "MAJOR_07": {
+    "key": "MAJOR_07",
+    "name": "The Chariot",
+    "class": "Ontological Architect",
+    "thesis": "The righteous and unwavering establishment of a higher, perfected order, driven by enlightened conviction and a clear vision for ultimate truth and systemic harmony.",
+    "antithesis": "The tyrannical ossification of an ideal into an oppressive dogma, where righteous conviction devolves into unyielding authoritarianism, crushing emergent truths and stifling evolution in the name of a stagnant, self-serving perfection.",
+    "synthesis_artifact": "The cultivation of Dynamic Governance, where foundational truths are upheld with adaptive wisdom, fostering an evolving order that balances righteous principle with empathetic leadership, allowing for continuous refinement and inclusive progress.",
+    "visual_animation_prompt": "The visual animation features a majestic High Elf Paladin in ornate, gleaming armor, embodying serene authority and divine light, rendered as a metallic bas-relief. As the 'World Folding' 180-degree grid rotation initiates, this bas-relief subtly shifts (the 'Margaret Thatcher Effect'). The noble, resolute expression of the upright Thesis gradually morphs into a stern, unyielding, and potentially oppressive visage, with the divine light turning cold and rigid, and the ornate armor appearing constricting. Neon fractal lines dynamically trace these subtle transformations, highlighting the transition from enlightened governance to dogmatic tyranny across the shifting metallic surface."
+  },
+  "MAJOR_08": {
+    "key": "MAJOR_08",
+    "name": "Strength",
+    "class": "Ontological Structuring",
+    "thesis": "The conscious recognition and cultivation of the fundamental structures and enduring boundaries that provide stability, coherence, and protective order.",
+    "antithesis": "The suffocating weight of inherited, immutable structures that resist adaptation, leading to stagnation, exclusion, and a paralyzing fear of boundary transgression.",
+    "synthesis_artifact": "The conscious discernment and iterative reshaping of foundational structures, transforming immutable boundaries into adaptive thresholds that enable growth while maintaining essential integrity.",
+    "visual_animation_prompt": "The UI initiates with a majestic, metallic bas-relief depicting a stylized, colossal architectonic framework, subtly glowing with an inner order. The 'World Folding' effect commences, rotating the entire grid 180 degrees, revealing the inverse perspective. Simultaneously, the 'Margaret Thatcher Effect' subtly transforms the bas-relief: the ordered framework begins to show signs of immense, internal strain, with fine cracks spiderwebbing across its surface, and its foundational pillars bending inward, hinting at oppression. Neon fractal lines emerge from these stress points, bridging the visual tension between the initial stability and the emerging constriction, highlighting the dialectical shift."
+  },
+  "MAJOR_09": {
+    "key": "MAJOR_09",
+    "name": "The Hermit",
+    "class": "Gnostic Protocol Matrix",
+    "thesis": "The deliberate forging of profound knowledge-pacts; the conscious acquisition and disciplined application of esoteric truths to reshape reality.",
+    "antithesis": "The unwitting subjugation to the sources of power; the self-eroding consequence of knowledge unmoored from conscious sovereignty, leading to external dominion.",
+    "synthesis_artifact": "Sovereign Integration of Transcendent Cognition; the self-authored reclamation of agency through the ethical stewardship of potent truths.",
+    "visual_animation_prompt": "The UI animation initiates with a serene metallic bas-relief depicting the 'Thesis' state. As the card is activated, the entire 'World Folding' grid subtly performs a 180-degree rotation, shifting the perspective. Simultaneously, the metallic bas-relief undergoes the 'Margaret Thatcher Effect': its contours subtly and organically transform from the upright 'Thesis' depiction into the strained, shadowed configuration of the 'Antithesis'. This transformation is dynamically illuminated by interconnected neon fractal lines that trace the morphing structure, emphasizing the inherent tension and potential energy shift."
+  },
+  "MAJOR_10": {
+    "key": "MAJOR_10",
+    "name": "Wheel of Fortune",
+    "class": "Pattern Synthesizer",
+    "thesis": "The harmonious alignment of intentionality with the natural unfolding of possibility, recognizing the subtle influence of choice within the causal matrix.",
+    "antithesis": "The illusion of absolute control leading to rigid, predetermined outcomes, or the paralysis induced by a perceived inescapable destiny, resulting in a refusal to engage.",
+    "synthesis_artifact": "Existential Agency: The profound liberation found in conscious co-authorship with reality, transforming passive observation into active, responsible participation within the grand design.",
+    "visual_animation_prompt": "The UI initiates with a shimmering, metallic bas-relief depicting the Thesis: a serene, ethereal hand gently guiding luminous threads through a cosmic loom, symbolizing harmonious alignment. The entire visual grid then executes a dramatic 'World Folding' 180-degree rotation, transforming the perception of space. As the grid stabilizes, the bas-relief undergoes the 'Margaret Thatcher Effect': the once serene hand subtly tenses and distorts, becoming strained and entangled, the threads now appearing restrictive and chaotic, embodying the Antithesis. Concurrent with this metallic shift, vibrant neon fractal lines burst forth, tracing complex, interconnected paths across the folded grid, dynamically illustrating the reverberating causal connections between the upright and inverted states."
+  },
+  "MAJOR_11": {
+    "key": "MAJOR_11",
+    "name": "Justice",
+    "class": "Ontological Blueprint",
+    "thesis": "The inherent order and guiding principles of existence; the conscious discernment of cosmic design and the unfolding of destined patterns.",
+    "antithesis": "The oppressive weight of rigid dogma; the illusion of control against the current of cosmic design; resistance to the organic evolution of universal laws leading to stagnation or tyranny.",
+    "synthesis_artifact": "Harmonious co-creation within the evolving universal design; the wisdom to discern immutable principles from transient forms, fostering adaptive order and conscious participation in destiny's weave.",
+    "visual_animation_prompt": "The UI animates with a 'World Folding' 180-degree grid rotation. During this rotation, a metallic bas-relief subtly shifts from its upright Thesis representation (serene, flowing cosmic patterns) to its strained Antithesis form (cracked, rigid, entangled structures) via the 'Margaret Thatcher Effect', with neon fractal lines dynamically connecting the shifting elements, emphasizing the tension and transformation."
+  },
+  "MAJOR_12": {
+    "key": "MAJOR_12",
+    "name": "The Hanged Man",
+    "class": "Temporal Persistence Engine",
+    "thesis": "The profound power of historical continuity; the foundational strength derived from tradition and the lessons of the past, consciously preserved and understood as a guide for evolution.",
+    "antithesis": "The paralyzing grip of an unexamined past; the burden of unresolved histories and outdated structures that inhibit growth, leading to stagnation and a denial of necessary change.",
+    "synthesis_artifact": "Conscious Reclamation of Lineage: The ability to selectively integrate ancestral wisdom while releasing obsolete bonds, transforming historical weight into informed momentum for future actualization.",
+    "visual_animation_prompt": "The card's central metallic bas-relief rotates and unfolds with the 'World Folding' 180-degree grid rotation. As it shifts, the image subtly transforms from a resolute, upward-striving figure (Thesis) into a contorted, earth-bound form (Antithesis), depicting the 'Margaret Thatcher Effect.' This transition is underscored by intricate neon fractal lines that trace the emerging structural tensions and eventual resolution, highlighting the interconnectedness of past and potential."
+  },
+  "MAJOR_13": {
+    "key": "MAJOR_13",
+    "name": "Death",
+    "class": "Existential Event Horizon",
+    "thesis": "The conscious acceptance of immutable ends as the crucible for profound new forms and understanding.",
+    "antithesis": "The ossifying paralysis of clinging to the bygone, manifesting as a pervasive fear of change and the perpetuation of outdated structures.",
+    "synthesis_artifact": "The alchemical embrace of decay as a fundamental phase of creation, granting liberation and temporal mastery.",
+    "visual_animation_prompt": "The module's central metallic bas-relief, initially depicting the serene, wise visage of 'The Threshold of Transformation' (Thesis), undergoes a subtle, unsettling 'Margaret Thatcher Effect' shift. Its features strain and warp into a gaunt, clinging form representing the 'ossifying paralysis' (Antithesis). Simultaneously, the entire UI grid performs a dramatic 'World Folding' 180-degree rotation, as intricate neon fractal lines erupt from the strained bas-relief, weaving through the collapsing and reforming grid to signify the chaotic yet generative nature of this dialectical tension and resolution."
+  },
+  "MAJOR_14": {
+    "key": "MAJOR_14",
+    "name": "Temperance",
+    "class": "Catalyst of Metamorphic Praxis",
+    "thesis": "The intentional pursuit of truth through iterative refinement, transforming raw experience into profound insight and conscious creation.",
+    "antithesis": "The crippling fear of imperfection, manifesting as an endless cycle of self-sabotage, an inability to commit, or the cynical refusal to engage with transformative processes.",
+    "synthesis_artifact": "The luminous realization that true transformation emerges from embracing imperfection and the cyclical nature of growth, leading to profound self-authorship and ecological wisdom.",
+    "visual_animation_prompt": "The UI initiates with a smooth 'World Folding' 180-degree grid rotation, revealing a metallic bas-relief. This relief first depicts the Thesis: a serene, wise, earth-rooted alchemist carefully tending a luminous, geometrically perfect crucible, radiating balanced energy and purpose. Then, through the 'Margaret Thatcher Effect', the relief subtly but profoundly shifts: the alchemist becomes strained, their features contorted by a desperate grip on a fractured vessel, emanating chaotic, dark tendrils. As this transformation occurs, vibrant neon fractal lines burst forth, connecting the points of tension and release across the shifting bas-relief, finally settling on the Antithesis's strained visage."
+  },
+  "MAJOR_15": {
+    "key": "MAJOR_15",
+    "name": "The Devil",
+    "class": "Ontological Engineer",
+    "thesis": "The conscious recognition of the foundational agreements and energetic structures that manifest reality, enabling deliberate shaping and the disciplined application of primal will.",
+    "antithesis": "Entrapment within unexamined or self-imposed agreements, manifesting as a pervasive sense of powerlessness, material bondage, or the unconscious surrender to primal urges and illusions.",
+    "synthesis_artifact": "Reclamation of Sovereign Agency: The conscious transformation of foundational agreements, transmuting self-imposed limitations into conduits for authentic power and liberating manifestation.",
+    "visual_animation_prompt": "The UI animates with a dynamic 'World Folding' 180-degree grid rotation, drawing the viewer into the card's core. Upon settling, a metallic bas-relief emerges, which then subtly yet powerfully undergoes the 'Margaret Thatcher Effect.' It transforms from an upright, self-possessed Thesis posture, embodying conscious mastery, into a visibly strained and contorted Antithesis, symbolizing entrapment. This energetic shift is visually underscored by neon fractal lines that erupt from the points of structural tension and connection, weaving between the two states, illustrating the dialectical interplay before converging into a brief, harmonious symbol of synthesis."
+  },
+  "MAJOR_16": {
+    "key": "MAJOR_16",
+    "name": "The Tower",
+    "class": "Paradigm Shift Catalyst",
+    "thesis": "The inescapable necessity of deconstructing false or rigid structures to reveal foundational truths and allow for authentic re-creation.",
+    "antithesis": "The paralyzing resistance to necessary dismantling, leading to prolonged chaos, unaddressed systemic rot, and the perpetuation of cycles of false security.",
+    "synthesis_artifact": "Authentic Re-foundation: The conscious courage to rebuild upon newly revealed, unshakable truths after the necessary collapse of illusion.",
+    "visual_animation_prompt": "The card's metallic bas-relief subtly shifts, showcasing the upright Thesis form (a stable, albeit cracked, foundational structure) gradually distorting and straining into the inverted Antithesis (a chaotic pile of crumbling shards and tangled, grasping roots), with the points of tension and transformation highlighted by pulsing neon fractal lines. Simultaneously, the entire UI grid performs a 'World Folding' 180-degree rotation, revealing the underlying chaotic energy that precipitates the structural change."
+  },
+  "MAJOR_17": {
+    "key": "MAJOR_17",
+    "name": "The Star",
+    "class": "Algorithmic Revelation Conduit",
+    "thesis": "The revelation of latent truths, providing clear patterns for future navigation and informed decision-making; the profound insight derived from deep intuition and universal connection.",
+    "antithesis": "The paralyzing deluge of unfiltered information, leading to analysis paralysis, distorted interpretations, or the weaponization of foresight to control rather than enlighten; the burden of knowing without the wisdom to act.",
+    "synthesis_artifact": "The emergence of Discerning Prophecy, where insight is tempered by wisdom and empathy, transforming raw foresight into actionable, empowering guidance and fostering enlightened agency.",
+    "visual_animation_prompt": "The card's holographic representation of an Elf Oracle, originally serene and illuminated by celestial fractals (Thesis), initiates a 'World Folding' 180-degree grid rotation. During this transition, the underlying metallic bas-relief of the Oracle's visage subtly contorts and strains – the 'Margaret Thatcher Effect' – shifting from profound insight to an expression of overwhelming, fragmented visions. Neon fractal lines erupt from the Oracle's third eye, visually connecting the serene, knowing gaze (Thesis) to the chaotic, straining brow (Antithesis) as the grid completes its rotation, momentarily holding both states in dynamic tension before resolving into the synthesis artifact."
+  },
+  "MAJOR_18": {
+    "key": "MAJOR_18",
+    "name": "The Moon",
+    "class": "Paradigm Sculptor",
+    "thesis": "The conscious recognition of subjective reality; the discerning ability to sculpt one's own perceptual framework and uncover the underlying truths within the perceived world.",
+    "antithesis": "The seductive entrapment within self-created illusions or external deceptions, leading to paralysis, paranoia, and the projection of unconscious fears onto one's environment.",
+    "synthesis_artifact": "Self-Sovereignty through Epistemic Clarity: The conscious mastery of one's internal narrative and external perceptions, allowing for the intentional co-creation of an authentic, congruent reality.",
+    "visual_animation_prompt": "The UI grid initiates a 'World Folding' 180-degree rotation, transforming the display. A central, metallic bas-relief depicting a stylized architect of perception emerges. Initially, its contours are sharp and luminous, representing the clarity of the Thesis (conscious reality-sculpting). As the rotation progresses, the bas-relief undergoes a subtle, strained transformation—the 'Margaret Thatcher Effect'—its metallic surface twisting and contorting to embody the tension of the Antithesis (self-deception and fragmented reality). Simultaneously, intricate, luminous neon fractal lines erupt and weave across its surface, visually mapping the energetic interplay between these states, ultimately resolving into a harmonious yet dynamic form representing the Synthesis."
+  },
+  "MAJOR_19": {
+    "key": "MAJOR_19",
+    "name": "The Sun",
+    "class": "Metaphysical Framework",
+    "thesis": "The recognition of fundamental truths and the inherent order of the cosmos, providing structure, meaning, and a foundation for existence. It signifies cosmic justice, established principles, and the bedrock upon which reality is built.",
+    "antithesis": "The oppressive weight of unexamined dogma, rigid adherence to outdated principles, or the fatalistic belief in an unyielding destiny that stifles innovation and free will. It represents stagnation, inflexible systems, and the tyranny of tradition.",
+    "synthesis_artifact": "Conscious alignment with universal principles, discerning the dynamic spirit of cosmic order from its static letter, and exercising informed agency within an evolving metaphysical framework. It is the wisdom to adapt and participate in the grand design, rather than merely submitting to it.",
+    "visual_animation_prompt": "The metallic bas-relief of 'The Immutable Law' initially gleams with a radiant, balanced design, symbolizing inherent order. The background initiates a 'World Folding' 180-degree grid rotation, revealing an underlying geometric structure. As the rotation completes, the 'Margaret Thatcher Effect' subtly activates on the bas-relief; its pristine lines strain and warp, shifting into a more rigid, almost oppressive configuration, hinting at dogmatic tension. Neon fractal lines erupt from the strained points, connecting the upright (Thesis) and inverted (Antithesis) aspects, illustrating their dialectical relationship."
+  },
+  "MAJOR_20": {
+    "key": "MAJOR_20",
+    "name": "Judgement",
+    "class": "Axiomatic Principle Regulator",
+    "thesis": "The profound wisdom embedded in timeless principles, guiding conscious understanding and establishing an immutable order for all unfolding realities.",
+    "antithesis": "The paralysis caused by an unyielding adherence to obsolete decrees, preventing adaptation and perpetuating stagnation by denying the dynamism of present truth.",
+    "synthesis_artifact": "Embracing the living spirit of enduring principles, transforming static laws into adaptable guidelines that empower informed action and harmonious evolution within a stable framework.",
+    "visual_animation_prompt": "The scene initiates with the 'World Folding' 180-degree grid rotation. As the grid reconfigures, the central metallic bas-relief subtly shifts in the 'Margaret Thatcher Effect', morphing from the stately, upright Thesis to the visibly strained and distorted Antithesis. This transformation is visually connected and accentuated by an intricate network of glowing neon fractal lines that trace the emerging tensions and patterns."
+  },
+  "MAJOR_21": {
+    "key": "MAJOR_21",
+    "name": "The World",
+    "class": "Ontological Engineering",
+    "thesis": "The conscious and deliberate construction of fundamental paradigms and realities, asserting one's formative influence over existence to manifest new structures and truths.",
+    "antithesis": "The oppressive rigidity of inherited structures, or the paralyzing fear of challenging foundational axioms, leading to static realities, dogmatic adherence, or the destructive imposition of unexamined will.",
+    "synthesis_artifact": "Metaphysical Self-Authorship: The integrated capacity to dynamically shape and re-shape one's experiential reality with wisdom, responsibility, and an awareness of interconnectedness, fostering continuous evolution.",
+    "visual_animation_prompt": "The UI animates with a 'World Folding' 180-degree grid rotation, revealing new depths to the card's surface. A metallic bas-relief of 'The Primal Architect' figure then subtly shifts, employing the 'Margaret Thatcher Effect,' transitioning from an upright, confident pose overseeing a structured cosmos (Thesis) to a strained, contorted stance, clutching at fragments of a collapsing, chaotic structure (Antithesis). As it shifts, neon fractal lines bloom from the points of tension and collapse, connecting the fragmenting reality, illustrating the underlying structural forces at play."
+  },
+  "MINOR_WANDS_01": {
+    "key": "MINOR_WANDS_01",
+    "name": "Ace of Wands",
+    "class": "Volitional Catalyst",
+    "thesis": "The unbridled surge of primal will, manifesting as the genesis of new inspiration and the courage to initiate transformative action.",
+    "antithesis": "The untamed force of raw impulse, leading to destructive impulsivity, uncontrolled aggression, or the suppression of emergent creative energy.",
+    "synthesis_artifact": "The conscious channeling of emergent will, transforming primal potency into disciplined initiative and purposeful creation.",
+    "visual_animation_prompt": "The UI initiates with a 'World Folding' 180-degree grid rotation. The metallic bas-relief of 'Volition's Genesis' depicts a powerful, contained spark erupting from a solid, primal form, radiating a focused column of energy. As the 'Margaret Thatcher Effect' subtly activates, this bas-relief shifts: the focused spark strains, fracturing into chaotic, uncontrolled bursts, and the solid form distorts with a strained, almost pained expression, showing cracks of uncontrolled power. Neon fractal lines dynamically connect the initial, directed energy to its chaotic, fractured state, illustrating the internal tension."
+  },
+  "MINOR_WANDS_02": {
+    "key": "MINOR_WANDS_02",
+    "name": "Two of Wands",
+    "class": "Volitional Matrix",
+    "thesis": "The deliberate channeling of raw creative energy into a focused intent, charting the course for future expansion and innovation; the harmonious integration of instinct and intellect to forge a strategic vision.",
+    "antithesis": "The internal discord arising from an unchanneled surge of potential, leading to inaction or misdirected force; a failure to harmonize primal will with strategic foresight, resulting in paralysis or impulsive chaos.",
+    "synthesis_artifact": "The dynamic equilibrium between instinct and intellect, forging a unified purpose that enables decisive and impactful pioneering action; the crystallization of purposeful action where untamed potential finds its deliberate and effective trajectory.",
+    "visual_animation_prompt": "The animation initiates with a 'World Folding' 180-degree grid rotation, unveiling a metallic bas-relief of 'The Genesis of Intent.' Initially, a powerful, introspective figure — combining the Sorcerer's piercing intellect with the Barbarian's raw strength — stands at a precipice, holding two wands in a posture of expansive vision and deliberate planning, embodying the 'Thesis.' The 'Margaret Thatcher Effect' then subtly begins, shifting the relief: the figure's gaze becomes conflicted, the wands appear to pull in opposing directions or become heavy with indecision, and cracks of internal tension spiderweb across its form, representing the 'Antithesis' of fractured will. As this tension mounts, vibrant neon fractal lines burst forth, tracing intricate pathways that interconnect the opposing aspects, eventually coalescing into a singular, radiant stream of energy that emanates from the figure's core, symbolizing the 'Volitional Matrix' achieving breakthrough synthesis."
+  },
+  "MINOR_WANDS_03": {
+    "key": "MINOR_WANDS_03",
+    "name": "Three of Wands",
+    "class": "Trajectory Navigator",
+    "thesis": "The conscious and strategic projection of one's potent will towards new horizons, fueled by raw, elemental determination.",
+    "antithesis": "The paralysis of unchanneled potentia, where raw force lacks direction, or ambition becomes impulsive and self-defeating, failing to perceive true opportunity.",
+    "synthesis_artifact": "The forging of Primal Intent into Directed Destiny, where raw power becomes the engine of conscious creation and expansion.",
+    "visual_animation_prompt": "The UI unfolds with a 'World Folding' 180-degree grid rotation, revealing a metallic bas-relief. Initially, the relief depicts the 'Thesis': a powerful, stoic figure, reminiscent of an Orcish sorcerer-barbarian, standing at a precipice, gazing outward over a vast, unfolding landscape of geometric, purposeful lines, embodying 'the conscious and strategic projection of one's potent will towards new horizons.' As the grid subtly shifts, the 'Margaret Thatcher Effect' causes the relief to warp and strain; the figure's posture becomes tense and agitated, the landscape contorts into chaotic, broken patterns, representing 'the paralysis of unchanneled potentia, where raw force lacks direction, or ambition becomes impulsive and self-defeating.' This transformation is punctuated and connected by shimmering neon fractal lines that pulse between the two states, highlighting the tension and the potential for resolution."
+  },
+  "MINOR_WANDS_04": {
+    "key": "MINOR_WANDS_04",
+    "name": "Four of Wands",
+    "class": "Emergent Cohesion System",
+    "thesis": "The manifestation of collective will into a joyous and stable sanctuary, celebrating hard-won security and belonging forged through spirited communal action.",
+    "antithesis": "The inherent instability arising from unresolved primal tensions within a nascent community, leading to fractured alliances or a superficial peace that crumbles under internal dissent and unchanneled energies.",
+    "synthesis_artifact": "The forging of a truly resilient and dynamic collective through the conscious integration of individual spirit and communal structure, where primal energies and tensions are acknowledged and channeled into adaptive strength rather than destructive conflict.",
+    "visual_animation_prompt": "The UI initiates with a 'World Folding' 180-degree grid rotation. As the grid folds, a metallic bas-relief forms. Initially, it depicts the Thesis: four stylized, glowing wands deeply rooted, forming a protective, arching structure under which primal figures (evoking Sorcerer/Barbarian/Orc archetypes) engage in a vibrant, communal celebration, their forms solid and interconnected by warm, steady light, representing achieved harmony. Then, the 'Margaret Thatcher Effect' subtly activates: the bas-relief strains, the wands show hairline cracks, the communal figures become subtly isolated or their celebratory gestures morph into agitated discussions, their forms slightly distorted or pulling apart. This shift is articulated by jagged, pulsating neon fractal lines that emerge from the cracks, connecting the tension points and highlighting the transition from solid cohesion to internal strain."
+  },
+  "MINOR_WANDS_05": {
+    "key": "MINOR_WANDS_05",
+    "name": "Five of Wands",
+    "class": "Volitional Synthesis Matrix",
+    "thesis": "The dynamic interplay of divergent wills and creative forces, consciously engaged to forge new paradigms and refine collective purpose. It represents the invigorating tension of spirited competition and the constructive friction of differing perspectives, leading to innovation, resilience, and the emergence of a stronger, more adaptable collective identity.",
+    "antithesis": "The descent into aimless strife and destructive fragmentation, where individual egos or factional interests consume vital energy, preventing coherence and progress. It manifests as paralyzing internal conflict, self-defeating aggression, or the inability to reconcile differences, leading to stagnation, dissolution, and the atrophy of collective potential.",
+    "synthesis_artifact": "The 'Resilient Will-Form': The alchemical integration of conflicting energies into a focused, adaptive instrument of collective evolution. It is the conscious mastery of dynamic tension, where the inherent friction between diverse wills is channeled not as opposition, but as a perpetual engine for strategic innovation, cohesive action, and sustained existential growth.",
+    "visual_animation_prompt": "The UI animation depicts the 'World Folding' 180-degree grid rotation, and the 'Margaret Thatcher Effect' where the metallic bas-relief subtly shifts from the upright Thesis (representing unified, purposeful struggle) to the strained Antithesis (depicting fragmented, chaotic conflict), connecting with neon fractal lines that trace the energetic pathways of this transformation."
+  },
+  "MINOR_WANDS_06": {
+    "key": "MINOR_WANDS_06",
+    "name": "Six of Wands",
+    "class": "Consensus Architect",
+    "thesis": "The public affirmation of achieved mastery and the recognition of a journey well-travelled, signifying validated progress.",
+    "antithesis": "The burden of public expectation or the hollow echo of unearned praise, where true progress is overshadowed by external pressures or a fragile ego.",
+    "synthesis_artifact": "The integration of external acknowledgment with an unshakeable internal compass, yielding authentic leadership and resonant, sustainable achievement.",
+    "visual_animation_prompt": "The UI animates with a 'World Folding' 180-degree grid rotation. Concurrently, the 'Margaret Thatcher Effect' is applied: a metallic bas-relief subtly shifts from its upright Thesis depiction of celebrated progress to a strained, almost brittle representation of the Antithesis, underscored by glowing neon fractal lines that visually represent the tension and underlying energetic patterns."
+  },
+  "MINOR_WANDS_07": {
+    "key": "MINOR_WANDS_07",
+    "name": "Seven of Wands",
+    "class": "Boundary Articulation Matrix",
+    "thesis": "The unyielding assertion of one's core principles and sovereign boundaries, fueled by an intrinsic force of conviction and an intuitive understanding of strategic defense.",
+    "antithesis": "The corrosive paralysis induced by incessant opposition, leading to the abandonment of core values, the erosion of self-boundaries, or an aimless, aggressive deflection born from profound insecurity rather than principle.",
+    "synthesis_artifact": "The strategic wisdom to discern genuine threats from unnecessary conflicts, enabling the establishment of permeable yet resilient boundaries that facilitate growth while safeguarding core identity, transmuted through calibrated assertion.",
+    "visual_animation_prompt": "A crystalline grid, representing the 'World Folding' effect, performs a precise 180-degree rotation, revealing new dimensional perspectives. Simultaneously, a metallic bas-relief of the central archetype undergoes the 'Margaret Thatcher Effect': its initial noble posture of resolute defense (Thesis) subtly contorts and strains into a fragmented, overwhelmed, and aggressively defensive stance (Antithesis). This transformation is underscored by vibrant neon fractal lines that trace the neural pathways of conviction and doubt, visually connecting the shifting psychological states with energetic tension."
+  },
+  "MINOR_WANDS_08": {
+    "key": "MINOR_WANDS_08",
+    "name": "Eight of Wands",
+    "class": "Propulsion Axiom",
+    "thesis": "The focused application of primal will and direct action, manifesting as rapid, unimpeded progress towards a clear objective. It embodies direct communication of purpose and the potent alignment of energy and direction.",
+    "antithesis": "The dissipation or obstruction of directed force, resulting in miscommunication, aimless activity, or paralyzing resistance. Raw power is present but either scattered without purpose or rendered inert by unforeseen blockages, leading to frustration and stagnation.",
+    "synthesis_artifact": "Synchronized Kinetic Recalibration: The conscious mastery of directional energy, enabling the adaptable re-vectoring of intent and action in the face of dynamic opposition, transforming potential obstacles into catalysts for refined and powerful trajectory.",
+    "visual_animation_prompt": "The UI initiates with the 'World Folding' effect, a 180-degree grid rotation revealing a metallic bas-relief. Initially, the relief depicts sharp, forward-thrusting arrows or energy streams, embodying the 'Trajectory of Intent' (Thesis). As the grid folds, the 'Margaret Thatcher Effect' takes hold: the metallic forms subtly contort and strain, the arrows either tangle into a chaotic knot or collide against an invisible barrier, reflecting the frustrated 'Antithesis'. During this transformation, vibrant neon fractal lines burst forth, tracing the emerging patterns of tension and connection between the two states, before settling on the strained Antithesis representation."
+  },
+  "MINOR_WANDS_09": {
+    "key": "MINOR_WANDS_09",
+    "name": "Nine of Wands",
+    "class": "Vigilance Protocol",
+    "thesis": "The conscious and unwavering commitment to maintaining one's integral boundaries, channeling both refined intellect and primal resolve to defend deeply held truths and vital spaces against external pressures, fostering resilient growth.",
+    "antithesis": "The detrimental rigidity of an entrenched position, where vigilance devolves into paranoid isolation and self-imposed siege, draining essential resources in the futile defense of ossified dogmas rather than living principles.",
+    "synthesis_artifact": "The Dynamic Fortification of Purpose: A state of flexible resilience, where discernment guides the strategic deployment of strength, transforming static defense into adaptive growth and protective wisdom.",
+    "visual_animation_prompt": "The animation begins with a shimmering metallic bas-relief depicting 'The Bastion of Will' – a figure embodying disciplined arcane power interwoven with primal strength, standing in serene, watchful readiness, symbolizing the Thesis. As the 'World Folding' 180-degree grid rotation activates, the bas-relief subtly undergoes the 'Margaret Thatcher Effect': the figure's posture shifts from open vigilance to a taut, defensive crouch, its protective energies constricting into a self-imposed cage, illustrating the strained Antithesis. This transformation is visually articulated by vibrant neon fractal lines that pulse and connect the morphing elements, emphasizing the energetic and conceptual shift from adaptive strength to rigid confinement."
+  },
+  "MINOR_WANDS_10": {
+    "key": "MINOR_WANDS_10",
+    "name": "Ten of Wands",
+    "class": "Volitional Burden Accumulator",
+    "thesis": "The resolute burden-bearing towards a defined ambition, acknowledging the necessary weight of sustained effort and commitment.",
+    "antithesis": "The paralyzing accretion of unexamined commitments, leading to the collapse of will or the desperate abandonment of crucial responsibilities.",
+    "synthesis_artifact": "The strategic discernment of essential vs. superfluous burdens, enabling the deliberate stewardship of volitional energy and the conscious re-evaluation of one's trajectory.",
+    "visual_animation_prompt": "The animation begins with a 180-degree 'World Folding' grid rotation, revealing a metallic bas-relief. Initially, the bas-relief depicts the Thesis: a figure stoically bearing a dense bundle of wands, their form resolute and strong under the weight. As the 'Margaret Thatcher Effect' initiates, the metallic surface subtly ripples and strains, the figure's posture shifting from steadfast endurance to one of deep strain and near collapse, their muscles visibly tensing, struggling to maintain their hold on the wands, which now appear overwhelmingly heavy. This transition is highlighted by jagged, neon fractal lines that emerge from the points of tension, connecting the collapsing wands to the figure's contorted form, emphasizing the profound internal and external pressures of the Antithesis."
+  },
+  "MINOR_WANDS_11": {
+    "key": "MINOR_WANDS_11",
+    "name": "Page of Wands",
+    "class": "Archetype of Unbound Drive",
+    "thesis": "The unbridled surge of creative will; the courage to initiate action based on primal instinct; the authentic drive to manifest raw potential.",
+    "antithesis": "Destructive impulsivity born of unchanneled power; the paralysis of immense potential without conscious direction; primal urges overwhelming reason without purpose.",
+    "synthesis_artifact": "Conscious Direction of Primal Force; the masterful channeling of instinct into purposeful creation; authentic power integrated with deliberate intent.",
+    "visual_animation_prompt": "The scene opens with a metallic bas-relief of a figure — a primal shaman-warrior, merging raw strength with innate power — standing resolute amidst an untamed landscape, radiating an aura of vibrant, controlled energy, signifying the Thesis of 'Primal Volition'. As the 'World Folding' 180-degree grid rotation initiates, the metallic bas-relief subtly shifts (the 'Margaret Thatcher Effect'): the figure's posture tenses, its resolute expression strains into one of struggle or unbridled rage, and fissures appear across the landscape, symbolizing the Antithesis. Neon fractal lines erupt from these fissures, connecting the shifting forms as the transformation completes, highlighting the tension between the raw power and its chaotic manifestation."
+  },
+  "MINOR_WANDS_12": {
+    "key": "MINOR_WANDS_12",
+    "name": "Knight of Wands",
+    "class": "Catalyst of Primal Force",
+    "thesis": "The deliberate harnessing of raw, untamed potential for catalytic creation and fearless self-assertion, guided by instinctual wisdom.",
+    "antithesis": "The destructive eruption of untamed power, resulting in chaotic impulsiveness, self-annihilation, or the suppression of vital energy into volatile stagnation.",
+    "synthesis_artifact": "The conscious integration of primal vitality with purposeful intent, manifesting as disciplined fury and generative chaos directed towards transformative evolution.",
+    "visual_animation_prompt": "The UI initiates a 'World Folding' 180-degree grid rotation, revealing a central metallic bas-relief. As the grid settles, the 'Margaret Thatcher Effect' takes hold: the bas-relief, initially depicting a figure confidently channeling raw, glowing energy (Thesis), subtly distorts and strains. Its features become gnarled, the channeled energy appears to explode uncontrollably, and fissures resembling internal pressure manifest across its form (Antithesis). These shifting states are dynamically interconnected by an intricate network of neon fractal lines that pulse and converge, highlighting the dialectical tension between controlled power and chaotic release. The overall impression is one of immense, untamed force being brought to the precipice of order and entropy."
+  },
+  "MINOR_WANDS_13": {
+    "key": "MINOR_WANDS_13",
+    "name": "Queen of Wands",
+    "class": "Volitional Nexus",
+    "thesis": "The explosive genesis of an untamed will, guided by profound intuition, manifesting as fearless action that shatters conventional boundaries and forges radical new realities.",
+    "antithesis": "The volatile discharge of unchanneled primal force, leading to destructive impulsiveness, chaotic self-sabotage, or the paralyzing fear of one's own formidable power, resulting in its misdirected eruption.",
+    "synthesis_artifact": "The conscious integration of untamed vitality with strategic will, culminating in a foundational self-mastery that allows for the deliberate and potent application of transformative energy without corrosive byproduct.",
+    "visual_animation_prompt": "The card's central metallic bas-relief, illustrating a figure commanding a surge of elemental power, undergoes the 'Margaret Thatcher Effect': its upright, resolute form (Thesis) subtly strains and distorts into a chaotic, implosive Antithesis, where the channeled energy appears uncontrolled and destructive. Simultaneously, the background grid executes a 'World Folding' 180-degree rotation, revealing a fractured sub-structure. As the transformation unfolds, intense neon fractal lines erupt from the points of tension on the bas-relief, energetically bridging the fracturing elements and illustrating the precarious balance between directed will and raw, unbound force."
+  },
+  "MINOR_WANDS_14": {
+    "key": "MINOR_WANDS_14",
+    "name": "King of Wands",
+    "class": "Archetype of Unchained Will",
+    "thesis": "The unyielding surge of primal will, manifesting as an overwhelming force of creative destruction or intense, focused action that shatters inertia.",
+    "antithesis": "The destructive inferno of unchanneled primal impulse, consuming its source and manifesting as undirected rage, self-sabotage, or overwhelming burnout.",
+    "synthesis_artifact": "Conscious Alchemization of Primal Impulse: The strategic channeling of raw, potent will into transformative action and self-directed evolution.",
+    "visual_animation_prompt": "The scene begins with a metallic bas-relief, depicting the 'Thesis' as a figure of immense, contained power, surging forward with a primal, focused intensity. A 'World Folding' 180-degree grid rotation sweeps across the screen, revealing a subtly altered form: the 'Margaret Thatcher Effect' causes the metallic bas-relief to visibly strain and contort, shifting into the 'Antithesis'—a similar figure, now writhing in self-consuming chaos and undirected fury. As the transition completes, shimmering neon fractal lines emerge from the points of tension and transformation, briefly connecting the upright and inverted forms before dissolving into the void, leaving the synthesized conceptual space."
+  },
+  "MINOR_CUPS_01": {
+    "key": "MINOR_CUPS_01",
+    "name": "Ace of Cups",
+    "class": "Affective Resonance Conduit",
+    "thesis": "The conscious embrace of emergent emotional and spiritual wellsprings, manifesting as empathetic connection, creative inspiration, and profound intuitive clarity.",
+    "antithesis": "The suppression of authentic emotional or spiritual outflow, manifesting as creative barrenness, emotional numbness, and a superficial engagement with the world's deeper currents.",
+    "synthesis_artifact": "Cultivation of Emotional Veracity: The conscious unblocking of the heart's true flow, allowing for integrated expression, deep empathy, and a harmonious connection to the wellspring of being.",
+    "visual_animation_prompt": "The UI initiates with a 'World Folding' 180-degree grid rotation, revealing a cosmic canvas. At its center, a metallic bas-relief of a chalice overflowing with luminous liquid subtly shifts (Margaret Thatcher Effect) from its upright, boundless effusion (Thesis) to a constricted, inverted vessel showing signs of drought and internal strain (Antithesis). Neon fractal lines, mirroring both a flowing river and shattered ice, connect these two states, illustrating the dynamic tension of emotional and spiritual flow."
+  },
+  "MINOR_CUPS_03": {
+    "key": "MINOR_CUPS_03",
+    "name": "Three of Cups",
+    "class": "Relational Synergizer",
+    "thesis": "The conscious cultivation of shared joy and collective flourishing through empathetic connection and mutual appreciation, fostering genuine communal bonds.",
+    "antithesis": "The distortion of communal spirit into superficial excess, exclusionary conformity, or performative unity, leading to a void of authentic connection and unmet individual needs.",
+    "synthesis_artifact": "The balanced actualization of collective identity, fostering deep bonds through genuinely inclusive communion while preserving individual autonomy and preventing exclusionary dynamics.",
+    "visual_animation_prompt": "The UI initiates a 'World Folding' 180-degree grid rotation, revealing a holographic sphere at its center. The primary metallic bas-relief, initially depicting the joyous, interconnected figures of the 'Harmonic Reciprocity' Thesis, undergoes the 'Margaret Thatcher Effect': a subtle, unsettling shift where smiles become strained, postures tense, and connections appear brittle, reflecting the 'Antithesis'. This transformation is visually connected by intricate, pulsating neon fractal lines that trace the emerging cracks and tensions."
+  },
+  "MINOR_CUPS_04": {
+    "key": "MINOR_CUPS_04",
+    "name": "Four of Cups",
+    "class": "Internal Horizon Scrutinizer",
+    "thesis": "The conscious recognition of a pervasive sense of unfulfillment amidst apparent abundance, necessitating an internal retreat for re-evaluation of core values and genuine desires.",
+    "antithesis": "The persistent and debilitating refusal to engage with emerging opportunities or acknowledge internal discontent, leading to prolonged stagnation, self-imposed isolation, and the projection of inner void onto external circumstances.",
+    "synthesis_artifact": "The Re-alignment of Internal Compass: A breakthrough in which authentic desire is cultivated through introspective discernment, enabling a renewed capacity for value-aligned engagement and purposeful action.",
+    "visual_animation_prompt": "The UI initiates with the World Folding 180-degree grid rotation. As the grid folds, the metallic bas-relief subtly executes the Margaret Thatcher Effect, shifting from the contemplative, seemingly indifferent upright Thesis (a figure gazing inward, surrounded by overlooked potentials) to the strained Antithesis (the figure appearing actively resistant or trapped by their own apathy, with distorting shadows). This transformation is underscored by vibrant neon fractal lines that emerge from the fissures of the shifting relief, highlighting the structural tension between the two states."
+  },
+  "MINOR_CUPS_05": {
+    "key": "MINOR_CUPS_05",
+    "name": "Five of Cups",
+    "class": "Affective Dialectics Engine",
+    "thesis": "The conscious processing of profound loss and the contemplative acknowledgement of what has irrevocably passed, allowing the full spectrum of grief to be felt as a precursor to understanding.",
+    "antithesis": "The paralyzing fixation on unalterable past events, leading to an entrenched state of regret and an inability to perceive or engage with present opportunities or remaining resources.",
+    "synthesis_artifact": "Reclamation of Purpose through Understood Loss: The profound acceptance of what has been relinquished, transmuted into a resilient clarity that fosters new paths of growth and compassionate engagement with the present.",
+    "visual_animation_prompt": "The module initiates with a 'World Folding' 180-degree grid rotation. Initially, a metallic bas-relief depicts a somber scene with three spilled cups prominent in the foreground, and two upright cups subtly in the background, featuring a solitary, cloaked figure gazing downwards in quiet reflection (Thesis). As the grid begins its rotation, the 'Margaret Thatcher Effect' subtly activates: the metallic bas-relief warps, transforming the contemplative figure's posture into one of profound anguish and inertia. The three spilled cups become the dominant, swirling focal point, their contents appearing to endlessly drain, while the two upright cups recede into a shadowy, overlooked background. This shift is accentuated by vibrant neon fractal lines that erupt from the spilled cups, intertwining around the figure and across the deforming landscape, symbolizing the pervasive, self-reinforcing patterns of regret and emotional entanglement, before settling into the inverted, strained Antithesis perspective."
+  },
+  "MINOR_CUPS_06": {
+    "key": "MINOR_CUPS_06",
+    "name": "Six of Cups",
+    "class": "Mnemonic Synthesizer",
+    "thesis": "The conscious retrieval and integration of foundational memories and ancestral virtues as sources of present wisdom, empathy, and communal belonging.",
+    "antithesis": "The paralyzing weight of an idealized or unresolved past, fostering stagnation, escapism, and an inability to forge new narratives or embrace emergent realities.",
+    "synthesis_artifact": "The discernment of resonant continuity: transforming past narratives into adaptive wisdom, thereby enabling courageous presence and generative future-building through conscious re-contextualization.",
+    "visual_animation_prompt": "The UI initiates with a 'World Folding' 180-degree grid rotation, revealing the module's core. A metallic bas-relief representing the Thesis, depicting figures exchanging illuminated cups amidst blooming flora, then subtly distorts into the Antithesis – a solitary figure gazing into an empty, shadowed cup, while others turn away, portraying the 'Margaret Thatcher Effect' of strained transition. As this shift occurs, intricate neon fractal lines illuminate the tension, bridging the two states before resolving into a shimmering, coalesced form representing the Synthesis artifact: a helix of light spiraling from a foundational root towards an open horizon."
+  },
+  "MINOR_CUPS_07": {
+    "key": "MINOR_CUPS_07",
+    "name": "Seven of Cups",
+    "class": "Perceptual Spectrum Weaver",
+    "thesis": "The fertile expanse of imagination, presenting a multitude of emergent potentials and a canvas for creative exploration.",
+    "antithesis": "The engulfing fog of indecision, where the allure of illusory potentials leads to paralytic complacency and the avoidance of concrete action.",
+    "synthesis_artifact": "The Crucible of Deliberation: Forging intentional reality from the raw elements of choice and discerning vision.",
+    "visual_animation_prompt": "The UI grid initiates a 'World Folding' 180-degree rotation, revealing a metallic bas-relief at its core. This bas-relief, embodying the 'Margaret Thatcher Effect', subtly warps and shifts from the intricate, shimmering structures of the 'fertile expanse' (Thesis) to the entangled, suffocating patterns of the 'engulfing fog' (Antithesis). As it transitions, a network of vibrant neon fractal lines emanates from its surface, tracing the energetic connections between the contrasting states before resolving into a clear, focused beam representing the 'Crucible of Deliberation'."
+  },
+  "MINOR_CUPS_09": {
+    "key": "MINOR_CUPS_09",
+    "name": "Nine of Cups",
+    "class": "Resonance Chamber",
+    "thesis": "The radiant culmination of inner harmony and outer manifestation, where desires are brought into joyful congruence with one's spiritual purpose, fostering profound gratitude and serene self-expression.",
+    "antithesis": "The illusory satisfaction of superficial gains, leading to complacent stagnation and a disconnect from authentic desire, where the outward performance of joy masks an inner void and spiritual inertia.",
+    "synthesis_artifact": "The Dynamic Flow of Authentic Abundance: a continuous state of mindful appreciation that transforms mere gratification into sustained well-being, actively discerning true purpose from fleeting desires to cultivate evolving joy.",
+    "visual_animation_prompt": "The animation begins with a serene, ethereal image representing the Thesis: an ancient elven cleric/bard, radiating golden light, gently strumming a lyre amidst a vibrant, harmoniously blossoming grove, their aura encompassing a celestial chalice overflowing with luminous energy. The scene projects perfect, effortless contentment. Suddenly, the 'World Folding' effect initiates a dramatic 180-degree grid rotation, revealing the reverse side of the reality. As the world re-orients, the 'Margaret Thatcher Effect' takes hold: the metallic bas-relief of the scene subtly shifts. The elven figure's serene smile strains into a fixed, almost forced grin, their eyes betraying a hint of emptiness. The lush grove's blossoms appear somewhat artificial, oversaturated, and faintly wilting at the edges, and the overflowing chalice begins to spill erratically, its light flickering with an anxious pulse. Neon fractal lines erupt from the cracks appearing in the scene, connecting the strained elements of the Antithesis, pulsating with the tension between projected joy and underlying dissatisfaction, before fading back into the quiescent state, ready for the next interaction."
+  },
+  "MINOR_CUPS_10": {
+    "key": "MINOR_CUPS_10",
+    "name": "Ten of Cups",
+    "class": "Communal Flourishing Protocol",
+    "thesis": "The conscious cultivation and experience of profound emotional fulfillment, shared joy, and harmonious communal well-being, where individual spiritual and social flourishing are intrinsically intertwined.",
+    "antithesis": "The insidious emergence of superficial contentment, emotional isolation, or unacknowledged discord within seemingly harmonious structures, leading to a void of genuine connection or an inability to appreciate present blessings.",
+    "synthesis_artifact": "The cultivation of authentic, resilient communal bonds forged through the courageous acknowledgement and integration of inherent tensions, transforming potential disillusionment into a deeper, more profound, and sustainably joyful collective experience.",
+    "visual_animation_prompt": "A dynamic sequence initiating with the 'World Folding' 180-degree grid rotation, revealing a new conceptual landscape. Simultaneously, a metallic bas-relief depicting a vibrant, joyful communal scene (Thesis) subtly undergoes the 'Margaret Thatcher Effect': its integrated elements gradually shift, faces contort slightly, and underlying structural connections show signs of strain and fragmentation (Antithesis). As this transformation unfolds, intricate neon fractal lines erupt, tracing the emergent fault lines and the re-forming connections between the shifting figures, visually representing the dialectical tension and the potential for a breakthrough resolution."
+  },
+  "MINOR_CUPS_12": {
+    "key": "MINOR_CUPS_12",
+    "name": "Knight of Cups",
+    "class": "Emotive Synthesizer",
+    "thesis": "The conscious articulation of shared emotional and spiritual truths, fostering unity and profound understanding through empathetic resonance and compassionate expression.",
+    "antithesis": "The performative mimicry of empathy, where spiritual or emotional insights are withheld, misdirected, or used to maintain detachment, creating superficial bonds and deepening spiritual isolation.",
+    "synthesis_artifact": "The Resonance of Authentic Vulnerability: The courage to express genuine emotional and spiritual truth, fostering profound, reciprocal connections and collective elevation.",
+    "visual_animation_prompt": "The UI begins with a shimmering metallic bas-relief depicting the 'Harmonic Empathy' (Thesis) – perhaps an intertwining of ancient, flowing water symbols and resonating light, radiating soft, warm energy. As the card's data loads, the 'World Folding' 180-degree grid rotation initiates, twisting the background into an evolving geometric landscape. Simultaneously, the 'Margaret Thatcher Effect' subtly transforms the bas-relief: the flowing water becomes stagnant or turbulent, the ancient symbols subtly twist into more rigid, perhaps jagged forms, and the warm light flickers with colder, fractured hues, subtly revealing the underlying 'performative mimicry' (Antithesis). This shift is accompanied by nascent, electric neon fractal lines that emerge from the points of tension on the bas-relief, connecting its evolving form to the rotating grid, emphasizing the dialectical interplay."
+  },
+  "MINOR_CUPS_13": {
+    "key": "MINOR_CUPS_13",
+    "name": "Queen of Cups",
+    "class": "Affective Harmonizer",
+    "thesis": "The conscious cultivation of empathetic resonance and harmonious expression, guiding collective sentiment towards mutual understanding and spiritual communion.",
+    "antithesis": "The draining burden of unacknowledged emotional boundaries, where genuine connection is stifled by performative affectation or psychic over-extension.",
+    "synthesis_artifact": "Authentic Relationality forged through empathetic discernment and self-preserving expression.",
+    "visual_animation_prompt": "The UI begins with a shimmering, metallic bas-relief of an ethereal, elven figure, hand outstretched, emanating gentle, harmonious light and sound waves that flow outward to stylized, interconnected forms, representing the Thesis of 'Harmonic Resonance'. As the 'World Folding' 180-degree grid rotation initiates, the metallic bas-relief subtly distorts in the 'Margaret Thatcher Effect': the elf's features become strained, the outstretched hand clenches slightly, and the emanating waves transform into sharp, jagged lines that seem to entangle and drain from the figure, embodying the Antithesis. During this shift, vibrant neon fractal lines burst forth, illustrating the energetic tension and the underlying connective tissue of the opposing states."
+  },
+  "MINOR_SWORDS_01": {
+    "key": "MINOR_SWORDS_01",
+    "name": "Ace of Swords",
+    "class": "Incisive Cognitive Initiator",
+    "thesis": "The luminous dawn of a decisive insight, forging a path through conceptual entanglement and empowering courageous, direct action.",
+    "antithesis": "The double-edged weight of nascent clarity, manifesting as intellectual paralysis from overwhelming options, destructive impulsivity, or the tyrannical imposition of underdeveloped truths.",
+    "synthesis_artifact": "The disciplined forging of a sharpened will, translating initial sparks of insight into sustainable strategic action, guided by ethical discernment and the courage to adapt.",
+    "visual_animation_prompt": "The card's metallic bas-relief subtly shifts from a depiction of a single, upright sword piercing a crown (Thesis) to an inverted, shattered sword caught in a tangled web of thorns (Antithesis), highlighted by a cascade of vibrant neon fractal lines. This transition occurs as the entire UI grid performs a dynamic 180-degree 'World Folding' rotation, revealing the interwoven nature of clarity and chaos."
+  },
+  "MINOR_SWORDS_03": {
+    "key": "MINOR_SWORDS_03",
+    "name": "Three of Swords",
+    "class": "Cognitive Dissonance Resolver",
+    "thesis": "The piercing realization of an unavoidable truth, leading to necessary, albeit painful, disengagement and the conscious act of surgical separation from a detrimental pattern.",
+    "antithesis": "The paralyzing refusal to acknowledge an emotional wound, resulting in prolonged suffering and the perpetuation of cycles of avoidance and internal conflict.",
+    "synthesis_artifact": "The alchemical transformation of acute sorrow into incisive wisdom, fostering the capacity for profound empathy and the courageous reconstruction of one's inner landscape.",
+    "visual_animation_prompt": "The card's central metallic bas-relief, initially depicting three elegant, precise swords piercing a stylized, crystalline heart (Thesis), begins to subtly distort. The blades appear to twist and fray, the heart cracks with visible strain, and the background elements (like a stormy sky) become jagged and shadowed, embodying the 'Margaret Thatcher Effect' of internal tension shifting to external stress (Antithesis). Simultaneously, the entire UI grid performs a 'World Folding' 180-degree rotation, revealing new perspectives. As the shift completes, vibrant, electric-blue neon fractal lines emanate from the strained points of the bas-relief, momentarily connecting the fractured elements before coalescing into a single, radiant point, signifying the potential for synthesis."
+  },
+  "MINOR_SWORDS_04": {
+    "key": "MINOR_SWORDS_04",
+    "name": "Four of Swords",
+    "class": "Contemplative Integration Module",
+    "thesis": "The conscious withdrawal from external demands to facilitate internal processing, strategic recalibration, and the integration of experience into wisdom.",
+    "antithesis": "The involuntary paralysis of inaction, rooted in fear of engagement or chronic exhaustion, leading to stagnant potential and isolated rumination.",
+    "synthesis_artifact": "Resilient Agency: The dynamic balance of active reflection and purposeful engagement, enabling sustained progress through integrated self-awareness.",
+    "visual_animation_prompt": "The holographic 'World Folding' 180-degree grid rotation initiates, revealing a metallic bas-relief. The 'Margaret Thatcher Effect' subtly shifts the relief from a serene figure in meditative repose (Thesis) to a strained, contorted form bound by intangible chains (Antithesis). As the transformation completes, neon fractal lines bloom from the points of tension, connecting the two states and resolving into a vibrant, pulsing core of balanced energy."
+  },
+  "MINOR_SWORDS_05": {
+    "key": "MINOR_SWORDS_05",
+    "name": "Five of Swords",
+    "class": "Strategic Recalibration Engine",
+    "thesis": "The strategic imperative to assess the true cost of 'victory,' revealing where integrity is compromised for superficial gain.",
+    "antithesis": "The corrosive pursuit of triumph at any cost, leading to isolating 'victories' that alienate allies and diminish self-respect.",
+    "synthesis_artifact": "The Architecture of Principled Engagement: Cultivating the discernment to choose battles wisely, recognizing that true strength resides in ethical alignment and the construction of sustainable accord.",
+    "visual_animation_prompt": "The animation initiates with a stark metallic bas-relief representing 'The Severed Accord' (Thesis). As the 'World Folding' 180-degree grid rotation commences, the bas-relief undergoes the 'Margaret Thatcher Effect,' subtly morphing from its initial upright form into a strained, almost gaunt depiction of isolated triumph (Antithesis). Concurrent with this shift, vibrant neon fractal lines burst forth from the points of ethical compromise within the metallic structure, illuminating the fracturing path of unprincipled gain across the unfolding grid, before coalescing into a symbol of strategic integrity, representing the Synthesis."
+  },
+  "MINOR_SWORDS_06": {
+    "key": "MINOR_SWORDS_06",
+    "name": "Six of Swords",
+    "class": "Existential Navigation System",
+    "thesis": "The strategic and deliberate withdrawal from untenable circumstances, initiating a necessary journey towards calmer, more fertile ground and personal growth.",
+    "antithesis": "The paralyzing resistance to necessary change, leading to entrapment within cycles of past grievances, stalled progress, or the fear of an unknown future.",
+    "synthesis_artifact": "Conscious Re-routing of Personal Narrative: The empowered act of leveraging past burdens and navigational challenges as the compass for a chosen, self-directed future.",
+    "visual_animation_prompt": "The central metallic bas-relief, initially depicting a serene passage across water (Thesis), begins a 'Margaret Thatcher Effect' transformation: the water subtly morphs into turbulent, chaotic waves, and the figures' expressions shift from hopeful resolve to visible strain and apprehension (Antithesis). This transformation is synchronized with a dramatic 'World Folding' 180-degree grid rotation, revealing an inverted, starkly contrasted environment. Simultaneously, luminous neon fractal lines burst forth from the points of tension on the shifting bas-relief, weaving intricate, energetic patterns that connect the emerging shadow of the Antithesis to the newly folded, disoriented landscape."
+  },
+  "MINOR_SWORDS_07": {
+    "key": "MINOR_SWORDS_07",
+    "name": "Seven of Swords",
+    "class": "Cognitive Maneuver Unit",
+    "thesis": "The deliberate application of strategic intellect to navigate intractable systems, employing indirect methods to secure vital resources or information while minimizing direct confrontation.",
+    "antithesis": "The crippling burden of intellectual subterfuge, where concealed truths or unacknowledged strategies create a labyrinth of self-deception, leading to inevitable exposure or the psychological paralysis of unresolved accountability.",
+    "synthesis_artifact": "The emergence of 'Strategic Integrity,' where the adept deployment of indirect tactics is balanced by profound self-awareness and a commitment to eventual transparency, transforming potential evasion into skillful, ethical navigation of complex realities.",
+    "visual_animation_prompt": "The module initiates with a rapid, elegant 'World Folding' 180-degree grid rotation, revealing the core interface. Central to the display, a metallic bas-relief, initially embodying the upright 'Strategic Disengagement' (Thesis) with sleek, decisive lines and a sense of swift motion, subtly shifts. The 'Margaret Thatcher Effect' causes its contours to contort and strain, gradually transforming into the tangled, self-imprisoning imagery of 'Intellectual Subterfuge' (Antithesis). As this transformation occurs, an intricate network of neon fractal lines sparks and connects the shifting metallic forms, visually representing the energetic tension and the complex, underlying cognitive patterns between the two states, before resolving into the calm, integrated 'Strategic Integrity' synthesis."
+  },
+  "MINOR_SWORDS_08": {
+    "key": "MINOR_SWORDS_08",
+    "name": "Eight of Swords",
+    "class": "Existential Constraint Engine",
+    "thesis": "The perception of intractable limitation, where potential avenues of escape or resolution are obscured by internal narratives of fear and helplessness, leading to a state of self-imposed confinement.",
+    "antithesis": "The unconscious perpetuation of perceived constraints, fueled by the comfort of familiar suffering or the active resistance to confront discomfiting truths that would reveal the path to liberation.",
+    "synthesis_artifact": "The conscious re-evaluation of perceived boundaries, leading to the strategic dismantling of self-imposed limitations and the reclamation of sovereign agency through radical discernment.",
+    "visual_animation_prompt": "The module initiates with a 'World Folding' 180-degree grid rotation, causing the ethereal architectural blueprint of 'The Architecture of Anxiety' to materialize. A central metallic bas-relief, initially depicting the serene, if confined, posture of the 'Thesis' (figures bound within a seemingly impenetrable structure), then subtly shifts with the 'Margaret Thatcher Effect'. Its metallic surface subtly strains and distorts, revealing the hidden, almost grotesque tension of the 'Antithesis' (figures actively resisting the insight that their bonds are illusory). This transition is punctuated by crackling neon fractal lines that trace the neural pathways between the perceived constraints and the dormant will, culminating in a shimmering release of kinetic energy upon full synthesis."
+  },
+  "MINOR_SWORDS_09": {
+    "key": "MINOR_SWORDS_09",
+    "name": "Nine of Swords",
+    "class": "Psychic Stress Inductor",
+    "thesis": "The confrontational awareness of an overwhelming internal burden, acknowledging the acute mental anguish stemming from perceived failures or imminent threats.",
+    "antithesis": "The paralyzing denial of internal agency, perpetuating cycles of self-recrimination and avoiding the necessary confrontation with the root causes of psychological torment.",
+    "synthesis_artifact": "The emergence of Liberated Cognition through the active deconstruction of self-imposed psychological prisons, transforming anguish into a catalyst for resilient introspection and proactive remediation.",
+    "visual_animation_prompt": "The UI grid executes a 'World Folding' 180-degree rotation, transforming the visual plane. Simultaneously, the metallic bas-relief of the central figure subtly shifts from a posture of intense, conscious introspection (Thesis) to a visage of strained, internal entrapment (Antithesis), embodying the 'Margaret Thatcher Effect'. This dialectical transition is visually articulated by shimmering neon fractal lines that erupt from the points of tension and convergence, culminating in a clear, integrated representation of the Synthesis Artifact."
+  },
+  "MINOR_SWORDS_10": {
+    "key": "MINOR_SWORDS_10",
+    "name": "Ten of Swords",
+    "class": "Terminal Pattern Processor",
+    "thesis": "The absolute cessation of a dysfunctional cycle; the clarity gained from reaching an inescapable conclusion, enabling a necessary and profound re-evaluation.",
+    "antithesis": "The paralyzing fear of finality, leading to chronic stagnation and a self-inflicted inability to disengage from terminal patterns, perpetuating suffering through denial.",
+    "synthesis_artifact": "Emergent Renewal through Conscious Deconstruction: The acceptance of total systemic collapse as the generative void for radical transformation, allowing the conscious architecting of a new paradigm from fundamental principles.",
+    "visual_animation_prompt": "The UI initiates with a 'World Folding' 180-degree grid rotation, revealing a bas-relief scene. Initially, this metallic bas-relief depicts a shattered but clear structure, representing the Thesis of an inevitable conclusion. As the rotation completes, the 'Margaret Thatcher Effect' subtly activates: the bas-relief morphs, showcasing the initial structure now fragmented and entangled, trapped under a heavy, oppressive weight, embodying the strained Antithesis of clinging to the past. This transformation is visually connected by iridescent, neon fractal lines that trace the points of tension and potential breakthrough."
+  },
+  "MINOR_SWORDS_11": {
+    "key": "MINOR_SWORDS_11",
+    "name": "Page of Swords",
+    "class": "Axiomatic Discernment Node",
+    "thesis": "The courageous confrontation of uncomfortable truths, revealing the inherent structure of reality and liberating the mind from illusion.",
+    "antithesis": "The intellectual entrapment in endless analysis, fearing the decisive action that truth demands, or using truth to inflict harm rather than liberate.",
+    "synthesis_artifact": "The integration of profound, often uncomfortable, truths into a cohesive framework for adaptive strategy and ethical action, transforming vulnerability into an engine of resilient growth.",
+    "visual_animation_prompt": "The card, initially displaying the upright Thesis as a shimmering, metallic bas-relief, initiates a majestic 'World Folding' 180-degree grid rotation. As the grid folds, the metallic bas-relief undergoes the 'Margaret Thatcher Effect,' subtly shifting its contours from the poised, clear lines of the upright Thesis to the fractured, distorted strain of the Antithesis. Concurrently, a network of vibrant neon fractal lines emanates from the shifting bas-relief, weaving intricate, energetic patterns across the rotating grid, visually representing the energetic connection and interplay between the two states."
+  },
+  "MINOR_SWORDS_12": {
+    "key": "MINOR_SWORDS_12",
+    "name": "Knight of Swords",
+    "class": "Meta-Cognitive Strategist",
+    "thesis": "The conscious, strategic engagement with complex internal conflicts to forge profound understanding, utilizing analytical prowess to dismantle conceptual barriers.",
+    "antithesis": "The insidious trap of intellectualization, where endless analysis substitutes for decisive action, leading to mental stagnation, self-imposed complexity, and paralysis by over-analysis.",
+    "synthesis_artifact": "The emergence of integrated wisdom, allowing for decisive action born of profound self-awareness and strategic mental clarity, transcending the binary of thought and deed.",
+    "visual_animation_prompt": "The card initially presents a metallic bas-relief depicting a figure strategically navigating an intricate, glowing mental labyrinth (representing the Thesis). As the Dialectical logic unfolds, the 'Margaret Thatcher Effect' subtly activates: the bas-relief's features begin to distort and strain, morphing the figure from a clear strategist into one tangled and overwhelmed by the labyrinth's complexity (representing the Antithesis). From the points of strain and entanglement, vibrant neon fractal lines burst forth, visually connecting the increasingly chaotic elements of the strained relief. Subsequently, the 'World Folding' 180-degree grid rotation initiates; the entire background grid of the card folds and rotates, revealing a new, holistic perspective. As the world folds, the distorted bas-relief dissolves into shimmering particles, and from their confluence, the 'synthesis_artifact' materializes: a radiant, multi-faceted crystal orb, perfectly balanced, with the resolved neon fractal lines now elegantly tracing its facets, symbolizing integrated clarity and decisive action."
+  },
+  "MINOR_SWORDS_13": {
+    "key": "MINOR_SWORDS_13",
+    "name": "Queen of Swords",
+    "class": "Epistemological Catalyst",
+    "thesis": "The conscious, often painful, act of incisive deconstruction, dismantling obsolete mental frameworks or strategic paradigms to reveal fundamental, liberating truths.",
+    "antithesis": "The paralyzing grip of intellectual inertia; the rigid adherence to self-defeating strategies or ossified belief systems, leading to a state of perpetual, ineffective struggle and self-imposed limitation.",
+    "synthesis_artifact": "Liberation into Epistemic Agility: The capacity to fluidly construct and dismantle knowledge structures, employing strategic adaptability born from radical intellectual honesty and the integration of paradoxical insights.",
+    "visual_animation_prompt": "The metallic bas-relief of the MINOR_SWORDS_13 archetype is initially presented in its Thesis form: a sharp, decisive figure amidst clean, intellectual lines, representing clear-eyed deconstruction. As the card transitions, the 'World Folding' 180-degree grid rotation initiates, twisting the environment. Simultaneously, the 'Margaret Thatcher Effect' subtly activates: the bas-relief itself distorts, shifting from the decisive Thesis into its strained Antithesis – the figure's features contort in mental anguish, and its instruments of deconstruction appear tangled or self-impeding. From these points of intellectual tension, glowing neon fractal lines erupt, visually connecting the structural flaws. Upon completion of the 'World Folding', the bas-relief resolves into the Synthesis, depicted as a fluid, adaptable form, now integrated with the radiant, re-patterned neon fractal network, signifying liberated cognitive agility on the newly aligned grid."
+  },
+  "MINOR_SWORDS_14": {
+    "key": "MINOR_SWORDS_14",
+    "name": "King of Swords",
+    "class": "Cognitive Disengagement Matrix",
+    "thesis": "The conscious and deliberate act of strategic disengagement, understanding that true strength lies in knowing when to cease a struggle that has outlived its purpose.",
+    "antithesis": "The self-defeating inability to disengage from mental or actual conflict, leading to perpetual exhaustion, paranoia, and the futile reliving of past tactical engagements.",
+    "synthesis_artifact": "The strategic transcendence of past conflicts, leading to an integrated state of alert calm and the redirection of intellectual energy towards generative, future-oriented design rather than defensive planning.",
+    "visual_animation_prompt": "The UI animates with a 'World Folding' 180-degree grid rotation. As the fold occurs, the central metallic bas-relief subtly shifts from the upright Thesis (calm, strategic disengagement) to the strained Antithesis (paralyzing vigilance) via the 'Margaret Thatcher Effect.' This transformation is visually accentuated by intricate neon fractal lines that emerge, connecting the points of tension and eventually coalescing into a shimmering, stable symbol of integrated resolution, before the grid settles."
+  },
+  "MINOR_PENTACLES_01": {
+    "key": "MINOR_PENTACLES_01",
+    "name": "Ace of Pentacles",
+    "class": "Formative Principle Engine",
+    "thesis": "The conscious emergence of grounded potential and nascent material form, guided by intuitive wisdom and the promise of sustainable growth.",
+    "antithesis": "The paralysis of unrealized potential, manifesting as either inert materialism or ungrounded spiritual abstraction, lacking practical application or nurturing.",
+    "synthesis_artifact": "Conscious Embodiment: The alchemical integration of spiritual insight with practical action, manifesting enduring value and purpose-driven creation.",
+    "visual_animation_prompt": "The UI initiates with a 'World Folding' 180-degree grid rotation, revealing the core form. A metallic bas-relief of 'The Genesis of Form' then subtly shifts, performing the 'Margaret Thatcher Effect' as it transitions from the serene, upright Thesis (representing emergent potential) to the strained, inverted Antithesis (depicting uncultivated potential). This transformation is visually connected by vibrant neon fractal lines, highlighting the dialectical tension and underlying energetic structure."
+  },
+  "MINOR_PENTACLES_03": {
+    "key": "MINOR_PENTACLES_03",
+    "name": "Three of Pentacles",
+    "class": "Foundational Praxis Nexus",
+    "thesis": "The conscious cultivation of skill and collaborative application of knowledge, leading to the deliberate construction of stable and valuable frameworks.",
+    "antithesis": "The resistance to iterative learning or fragmented execution, resulting in unstable structures, misaligned efforts, or a stagnation of developmental potential.",
+    "synthesis_artifact": "The emergence of sustainable competence and innovative structures, forged through the integration of disciplined learning, adaptive collaboration, and persistent, mindful creation.",
+    "visual_animation_prompt": "The module initiates with a 'World Folding' 180-degree grid rotation, revealing a dynamic metallic bas-relief. This relief first embodies the Thesis: a group of stylized figures collaboratively sketching blueprints and meticulously laying foundational stones, surrounded by gleaming tools and a sense of shared purpose. Through the 'Margaret Thatcher Effect', the metallic bas-relief subtly shifts and strains; the collaborative figures become isolated, their tools rust and fragment, and the foundational stones crack into an unstable, chaotic jumble, symbolizing the Antithesis. This transformation is underscored by pulsing neon fractal lines that energetically connect the points of structural tension and breakdown."
+  },
+  "MINOR_PENTACLES_04": {
+    "key": "MINOR_PENTACLES_04",
+    "name": "Four of Pentacles",
+    "class": "Pattern Entrenchment System",
+    "thesis": "The conscious and deliberate establishment of foundational structures and protective boundaries to ensure tangible security and the preservation of inherent value.",
+    "antithesis": "The ossification of established forms, leading to rigid possessiveness, fear-driven stagnation, and an inability to adapt or share the flow of resources.",
+    "synthesis_artifact": "Adaptive Stewardship: The wisdom to discern what to hold and what to release, allowing for secure grounding that simultaneously fosters dynamic growth and reciprocal exchange within defined parameters.",
+    "visual_animation_prompt": "The UI begins displaying the pristine, upright Thesis configuration. A dramatic 'World Folding' 180-degree grid rotation occurs, revealing the reverse side of the module. During this transition, the central metallic bas-relief subtly shifts in real-time, exhibiting the 'Margaret Thatcher Effect' by transforming from its initial upright (Thesis) depiction of controlled stability to a strained, grasping, and rigid (Antithesis) posture, while intricate neon fractal lines spontaneously trace the emerging tensions and connections between these two states."
+  },
+  "MINOR_PENTACLES_06": {
+    "key": "MINOR_PENTACLES_06",
+    "name": "Six of Pentacles",
+    "class": "Kinetic Exchange Matrix",
+    "thesis": "The conscious practice of equitable resource flow, fostering mutual support and societal well-being through balanced giving and receiving.",
+    "antithesis": "The structural imbalance of resource distribution, manifested as exploitation, coerced dependency, or the hoarding of wealth, leading to systemic inequality and distrust.",
+    "synthesis_artifact": "The conscious re-calibration of power dynamics in exchange, cultivating genuine mutual aid and restorative resource distribution, thereby dismantling cycles of debt and fostering collective prosperity.",
+    "visual_animation_prompt": "The UI initiates with a smooth 'World Folding' 180-degree grid rotation, revealing a metallic bas-relief representing 'The Fulcrum of Reciprocity'. As the grid settles, the 'Margaret Thatcher Effect' subtly activates: the upright, balanced imagery of the bas-relief, depicting harmonious exchange, begins to subtly warp and strain, shifting towards an inverted representation of unequal distribution and tension. This transformation is visually articulated by dynamic, vibrant neon fractal lines that emerge from the points of tension, illustrating the underlying dialectical forces at play."
+  },
+  "MINOR_PENTACLES_07": {
+    "key": "MINOR_PENTACLES_07",
+    "name": "Seven of Pentacles",
+    "class": "Evaluative Cultivation Engine",
+    "thesis": "The discerning pause to evaluate the efficacy of past endeavors and recalibrate future investment with informed patience.",
+    "antithesis": "The anxious inertia of unrewarded effort, manifesting as premature abandonment or stubborn, unfruitful persistence.",
+    "synthesis_artifact": "Strategic Adaptation through Conscious Re-alignment",
+    "visual_animation_prompt": "The UI grid initiates a 'World Folding' 180-degree rotation, transforming the environment. Simultaneously, a central metallic bas-relief, depicting 'The Arc of Cultivation,' undergoes a 'Margaret Thatcher Effect,' subtly shifting from a serene, upright posture (Thesis) into a strained, contorted configuration (Antithesis). This transformation is accompanied by luminous neon fractal lines that emerge from the bas-relief, intertwining and pulsating, visually representing the tension and potential resolution between the two states."
+  },
+  "MINOR_PENTACLES_08": {
+    "key": "MINOR_PENTACLES_08",
+    "name": "Eight of Pentacles",
+    "class": "Ontological Constructor",
+    "thesis": "The conscious dedication to meticulous craft, understanding that mastery emerges from persistent, focused effort and the iterative refinement of practical skill.",
+    "antithesis": "The paralyzing grip of endless, uninspired repetition, leading to burnout, or conversely, the debilitating fear of imperfection that prevents initiation, trapping potential in perpetual, unmanifested preparation.",
+    "synthesis_artifact": "The conscious embrace of the iterative process, transforming effort into a mindful dance between aspiration and execution, culminating in the joyous realization that true mastery is the continuous, adaptive refinement of one's creative praxis, grounded in both skill and purpose.",
+    "visual_animation_prompt": "The metallic bas-relief representing the Thesis (a gnome artificer meticulously perfecting an intricate mechanical contraption) begins a 'World Folding' 180-degree grid rotation. During this rotation, the 'Margaret Thatcher Effect' subtly activates: the detailed craftsmanship of the bas-relief strains, with gears appearing jammed or the artificer's hand blurring into a repetitive, uninspired motion. Simultaneously, luminous neon fractal lines erupt from the points of tension, tracing the dialectical shift as the scene transitions to reveal the inverted shadow of the Antithesis."
+  },
+  "MINOR_PENTACLES_09": {
+    "key": "MINOR_PENTACLES_09",
+    "name": "Nine of Pentacles",
+    "class": "Aesthetic Autonomy Engine",
+    "thesis": "The serene mastery of one's domain, characterized by disciplined cultivation, self-sufficiency, and the quiet enjoyment of earned abundance.",
+    "antithesis": "The deceptive allure of superficial comfort, masking a dependency on external validation or an unsustainable pursuit of fleeting pleasure, leading to inner hollowness.",
+    "synthesis_artifact": "Harmonious integration of inner wisdom with sustainable external prosperity, leading to an authentic and resilient sense of self-worth.",
+    "visual_animation_prompt": "The module initiates with a 'World Folding' 180-degree grid rotation. As the grid settles, the metallic bas-relief of the primary character subtly shifts from the upright depiction of serene mastery (Thesis) to a strained, almost contorted version reflecting superficiality and dependency (Antithesis). This transformation is visually articulated by vibrant neon fractal lines emanating from the points of tension and integration."
+  },
+  "MINOR_PENTACLES_10": {
+    "key": "MINOR_PENTACLES_10",
+    "name": "Ten of Pentacles",
+    "class": "Module of Foundational Legacy",
+    "thesis": "The secure culmination of generational efforts, fostering enduring prosperity and communal well-being.",
+    "antithesis": "The stagnation of inherited wealth, manifesting as superficial security, intergenerational discord, or entrapment by rigid traditions.",
+    "synthesis_artifact": "The conscious cultivation of a living legacy, integrating ancestral wisdom with adaptive innovation to ensure sustainable and inclusive abundance.",
+    "visual_animation_prompt": "The UI performs a 'World Folding' 180-degree grid rotation. Simultaneously, a metallic bas-relief of the card subtly shifts, exhibiting the 'Margaret Thatcher Effect' as it transforms from the solid, flourishing depiction of the Thesis to the strained, fractured representation of the Antithesis, all while neon fractal lines dynamically connect and trace these evolving patterns."
+  },
+  "MINOR_PENTACLES_11": {
+    "key": "MINOR_PENTACLES_11",
+    "name": "Page of Pentacles",
+    "class": "Elemental Integration Engine",
+    "thesis": "The conscious application of profound earth wisdom and innovative material shaping to establish resilient, regenerative systems and abundant, harmonious realities.",
+    "antithesis": "The hoarding of earth wisdom, the exploitative manipulation of resources, or a rigid refusal to evolve material paradigms, leading to depletion, ecological imbalance, and stagnant isolation.",
+    "synthesis_artifact": "The embodiment of ecological foresight through regenerative design, where material abundance fuels planetary vitality, fostering a legacy of integrated well-being and enlightened stewardship.",
+    "visual_animation_prompt": "The UI grid performs a 'World Folding' 180-degree rotation, revealing a new perspective on the character's essence. During this transition, a metallic bas-relief of the Gnome Druid/Wizard character undergoes the 'Margaret Thatcher Effect': it subtly shifts from its upright, serene posture (representing the Thesis of harmonious creation) to a strained, contorted form (embodying the Antithesis of exploitation or stagnation). This transformation is visually connected by intricate neon fractal lines that trace the energetic tension and potential pathways between these states, dissolving into a shimmering breakthrough resolution upon completion of the fold."
+  },
+  "MINOR_PENTACLES_12": {
+    "key": "MINOR_PENTACLES_12",
+    "name": "Knight of Pentacles",
+    "class": "Pattern Manifestor",
+    "thesis": "The deliberate cultivation of sustainable systems through harmonized material and arcane wisdom, ensuring long-term prosperity and growth.",
+    "antithesis": "The ossification of established systems, leading to resource depletion and spiritual stagnation due to an unwillingness to adapt or integrate new understanding.",
+    "synthesis_artifact": "Adaptive Stewardship through cyclical innovation, ensuring the enduring vitality of both material and spiritual domains.",
+    "visual_animation_prompt": "The card's metallic bas-relief depicting 'The Geomantic Weaver' as a figure tending flourishing, sustainable constructions subtly warps as the 'World Folding' 180-degree grid rotation begins. This 'Margaret Thatcher Effect' transforms the vibrant prosperity into an image of rigid, over-engineered stagnation, with entwined roots becoming restrictive and structures showing signs of internal stress. Simultaneously, pulsating neon fractal lines burst forth from these points of tension, visually mapping the dialectical shift before receding as the antithetical state is revealed."
+  },
+  "MINOR_PENTACLES_13": {
+    "key": "MINOR_PENTACLES_13",
+    "name": "Queen of Pentacles",
+    "class": "Ontological Shift Catalyst",
+    "thesis": "The proactive engagement with the cycles of decay and rebirth inherent in all material existence, leading to profound foundational renewal and the cultivation of fertile ground for sustainable growth.",
+    "antithesis": "The paralyzing fear of material loss or the disruption of established comfort, leading to the entrenchment in decaying structures and the suppression of essential ecological or systemic transformation.",
+    "synthesis_artifact": "The alchemical transmutation of scarcity into regenerative abundance through conscious, cyclical re-patterning of material reality, ensuring sustainable evolution and resilient foundational structures.",
+    "visual_animation_prompt": "The screen initiates a 'World Folding' 180-degree grid rotation, revealing the character's core. Simultaneously, a metallic bas-relief of ancient, interconnected natural forms (trees merging with root systems, crystalline structures) subtly shifts from its serene, upright Thesis (a vibrant ecosystem thriving from organic decomposition) to a strained, inverted Antithesis (a petrified, barren landscape choked by unyielding, ossified remains). This intricate transformation is dynamically illuminated by pulsating neon fractal lines, tracing the energetic pathways between the two states."
+  },
+  "MINOR_CUPS_02": {
+    "key": "MINOR_CUPS_02",
+    "name": "Two of Cups",
+    "class": "Synergistic Conflux Engine",
+    "thesis": "The conscious convergence of distinct spiritual and creative essences into a unified, resonant field; the intentional forging of sacred bonds through mutual understanding and inspired empathy.",
+    "antithesis": "The fracturing of essential connection due to misaligned spiritual doctrines or dissonant creative expression; the structural tension arising from a failure to recognize the inherent value in another's unique resonance, leading to separation or codependent absorption.",
+    "synthesis_artifact": "The Alchemical Union of Self and Other: A dynamic, evolving partnership forged through the courageous exploration and integration of both shared resonance and individuated tension, yielding a wisdom that transcends superficial agreement and embraces profound, reciprocal transformation.",
+    "visual_animation_prompt": "The UI initiates with the 'World Folding' 180-degree grid rotation, revealing two ethereal, intertwined elven figures – one with a cleric's serene wisdom, the other with a bard's flowing inspiration – forming a perfect harmonic embrace (Thesis). As the rotation completes, the 'Margaret Thatcher Effect' takes hold: the metallic bas-relief subtly shifts, showing the intertwined figures pulling apart, their expressions strained with misunderstanding, their hands reaching but not quite connecting (Antithesis). During this transition, vibrant neon fractal lines erupt, tracing the energetic pathways between their hearts, highlighting both their intrinsic connection and the emergent tension, before resolving into a shimmering sigil of a unified, yet distinct, double helix."
+  },
+  "MINOR_CUPS_08": {
+    "key": "MINOR_CUPS_08",
+    "name": "Eight of Cups",
+    "class": "Trajectory Reorientation Module",
+    "thesis": "The conscious disengagement from established structures or emotional anchors to initiate a purposeful trajectory toward profound spiritual insight and self-actualization.",
+    "antithesis": "The avoidance of profound engagement, resulting in an aimless drift, a fear of commitment, or the illusion of progress through perpetual flight from deeper truths and responsibilities.",
+    "synthesis_artifact": "The synthesis of self-awareness and courageous action, enabling the conscious discernment between purposeful disengagement for growth and the avoidance of necessary confrontation, thereby forging a path of authentic spiritual evolution.",
+    "visual_animation_prompt": "The 'World Folding' 180-degree grid rotation commences, as a metallic bas-relief of a figure walking away subtly shifts from an upright, determined posture (Thesis) to a strained, hesitant stance (Antithesis) – the 'Margaret Thatcher Effect'. Neon fractal lines connect these two states, illustrating the tension, before coalescing into a single, radiant vector representing the Synthesis, accompanied by a harmonic wave emanating from the core."
+  },
+  "MINOR_CUPS_11": {
+    "key": "MINOR_CUPS_11",
+    "name": "Page of Cups",
+    "class": "Dialectical Integration Nexus",
+    "thesis": "The nascent capacity for empathetic connection and the gentle emergence of creative emotional expression, fostering a receptive environment for intuitive understanding and communal belonging.",
+    "antithesis": "The immature manifestation of emotional sensitivity, leading to superficial connections, performative empathy, or a withdrawal into self-centered emotional escapism, thereby disrupting genuine communal resonance.",
+    "synthesis_artifact": "The integration of nascent empathetic potential with self-awareness, allowing for the authentic and resilient cultivation of emotional understanding, fostering genuine creative contribution and interdependent communal bonds.",
+    "visual_animation_prompt": "A serene, metallic bas-relief depicting a whimsical gnome figure gently offering an overflowing cup, from which flows a vibrant tapestry of interconnected emotional currents, fostering nascent communal song and shared intuitive understanding. As the 'World Folding' 180-degree grid rotation initiates, the 'Margaret Thatcher Effect' subtly transforms the bas-relief. The gnome's expression shifts from gentle offering to a hesitant or evasive stance; the flowing currents become either fragmented, overly rigid, or merely a reflection of the gnome's own distorted image, revealing the underlying tension of emotional immaturity or performative gesture. Neon fractal lines erupt from the strained connections, illustrating the energetic disruption between these two states."
+  },
+  "MINOR_CUPS_14": {
+    "key": "MINOR_CUPS_14",
+    "name": "King of Cups",
+    "class": "Syntropic Field Generator",
+    "thesis": "The conscious cultivation of interconnectedness, where diverse elements are woven into a resilient, mutually enriching tapestry of shared existence.",
+    "antithesis": "The suppression of authentic expression in a pursuit of superficial unity, or the complacent avoidance of necessary friction, allowing latent discord to fester beneath a false tranquility.",
+    "synthesis_artifact": "Emergent Resonance: The dynamic integration of opposing forces, where friction becomes the catalyst for a robust and evolving coherence, honoring individual truths within a greater harmony.",
+    "visual_animation_prompt": "The UI transitions with a dramatic 'World Folding' 180-degree grid rotation. As this occurs, the central metallic bas-relief subtly shifts: its upright, harmonious Thesis form morphs into a strained, fragmented Antithesis, vividly connected and illuminated by intricate neon fractal lines that trace the emerging tensions."
+  },
+  "MINOR_SWORDS_02": {
+    "key": "MINOR_SWORDS_02",
+    "name": "Two of Swords",
+    "class": "Equilibrium Actuator",
+    "thesis": "The conscious act of maintaining a precise equilibrium between two equally compelling but divergent truths, necessitating a moment of internal stasis for critical deliberation.",
+    "antithesis": "The paralyzing inertia born from the inability to reconcile divergent truths, leading to protracted indecision, cognitive dissonance, or a painful, unavoidable rupture of peace.",
+    "synthesis_artifact": "Strategic Resolution through Bifurcated Insight, enabling decisive, integrated action.",
+    "visual_animation_prompt": "The scene begins with a serene, metallic bas-relief depicting the Thesis: two crossed swords perfectly balanced, a blindfolded figure maintaining a calm, resolute posture. As the 'World Folding' 180-degree grid rotation initiates, the environment warps and spins, revealing the underlying tension. Simultaneously, the 'Margaret Thatcher Effect' subtly transforms the bas-relief: the blindfold slips, revealing strained eyes, the swords begin to vibrate and distort, hinting at instability and the figure's inner turmoil. Neon fractal lines erupt from the points of tension, connecting the fractured elements of the shifting bas-relief, emphasizing the emergent dissonance."
+  },
+  "MINOR_PENTACLES_02": {
+    "key": "MINOR_PENTACLES_02",
+    "name": "Two of Pentacles",
+    "class": "Dynamic Resource Allocation Matrix",
+    "thesis": "The mindful allocation of limited resources across dynamic priorities, embracing adaptability as a core strength to maintain equilibrium amidst constant change and varied demands.",
+    "antithesis": "The debilitating paralysis of indecision, leading to a chaotic scattering of energy and an inability to commit, resulting in resources being perpetually mismanaged or neglected under the overwhelming weight of external pressures.",
+    "synthesis_artifact": "The emergence of an inner compass, allowing for decisive prioritization and the creation of a personal rhythm that harmonizes internal capacity with external demands, transforming potential chaos into productive flow and sustainable growth.",
+    "visual_animation_prompt": "The scene begins with a metallic bas-relief depicting the Thesis: two perfectly balanced spheres, interconnected by a flowing lemniscate, signifying dynamic equilibrium. As the 'World Folding' 180-degree grid rotation commences, the underlying grid of reality shifts dramatically, revealing an inverted perspective. Simultaneously, the 'Margaret Thatcher Effect' subtly activates: the bas-relief itself warps. The spheres begin to strain, elongating unevenly, and the lemniscate frays, indicating impending collapse under pressure, depicting the Antithesis. This transformation is underscored by vibrant neon fractal lines that erupt from the points of stress and connection, illustrating the energetic flux and the deep structural tension within the evolving form."
+  },
+  "MINOR_PENTACLES_05": {
+    "key": "MINOR_PENTACLES_05",
+    "name": "Five of Pentacles",
+    "class": "Adaptive Scarcity Matrix",
+    "thesis": "The stark recognition of material and spiritual deprivation, revealing systemic vulnerabilities and the profound need for communal support.",
+    "antithesis": "The stubborn refusal to acknowledge one's own deprivation, fostering an isolating pride that rejects aid, or a desperate, unintegrated scramble from crisis without true healing.",
+    "synthesis_artifact": "The Reclaimed Hearth of Mutual Aid: Transforming recognized vulnerability into a foundation for resilient, interconnected community.",
+    "visual_animation_prompt": "The initial scene depicts the Thesis: a metallic bas-relief of two shivering figures trudging through a stylized blizzard outside a warmly lit, stained-glass structure, their forms etched with stark lines of deprivation. The 'World Folding' effect initiates, rotating the underlying 180-degree grid, subtly altering the perspective. Concurrently, the 'Margaret Thatcher Effect' manifests: the bas-relief itself shifts, the figures' faces morphing from gaunt resignation to a strained, almost defiant resolve, their postures becoming rigidly defensive even as they turn away from the perceived warmth. Neon fractal lines erupt from the icy ground and the edges of their tattered cloaks, connecting these points of internal tension to the rigid, unyielding aspects of their forms, emphasizing the shadow of unacknowledged pride or desperate avoidance."
+  },
+  "MINOR_PENTACLES_14": {
+    "key": "MINOR_PENTACLES_14",
+    "name": "King of Pentacles",
+    "class": "Terrestrial Resonance Modulator",
+    "thesis": "The conscious attunement to the earth's deep energetic currents, facilitating harmonious manifestation and the cultivation of sustainable, thriving systems.",
+    "antithesis": "The willful ignorance of ecological interconnectedness, leading to the exploitation of resources, the creation of unsustainable structures, and a fundamental disharmony with the physical plane.",
+    "synthesis_artifact": "Regenerative Embodiment: The conscious cultivation of symbiotic relationships with the physical world, leading to enduring prosperity and ecological vitality.",
+    "visual_animation_prompt": "The UI animation commences with a 'World Folding' effect, where a crystalline grid rotates 180 degrees, revealing a deeper energetic layer. A metallic bas-relief of the 'Terrestrial Resonance Modulator' then materializes: an ancient, elven figure, hands radiating subtle green energy towards a thriving, balanced ecosystem, symbolizing the Thesis. The 'Margaret Thatcher Effect' subtly activates, transforming the bas-relief: the vibrant ecosystem gradually degrades into barren, resource-depleted land, and the figure's face contorts with effort or despair, signifying the Antithesis. During this shift, intricate neon fractal lines erupt, tracing the energetic pathways and points of tension, connecting the initial harmonious flow with the encroaching disharmony across the transforming metallic surface."
+  }
+}

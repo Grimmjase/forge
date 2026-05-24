@@ -1,0 +1,31 @@
+{
+  "id": "MAJOR_09",
+  "index": 9,
+  "name": "The Hermit",
+  "suit": "MAJOR",
+  "metalClass": "PLATINUM",
+  "complexity": "MAJOR_TECHNICAL",
+  "activeState": 0,
+  "identities": {
+    "thesis": {
+      "title": "The Hermit",
+      "archetype": "Gnome Ascetic Scholar",
+      "hudTelemetry": "Map a hyper-precise, stable neon cyan vector coordinate plane radiating outward from a single platinum lantern."
+    },
+    "antithesis": {
+      "title": "The Socialite",
+      "archetype": "The Clandestine Politician",
+      "hudTelemetry": "Rupture the cyan vectors into a sequence of interlocking, mirrored shadow-lines that mask the core face design."
+    },
+    "superposition": {
+      "title": "Schrödinger's Ascetic",
+      "archetype": "Quantum Cloud",
+      "hudTelemetry": "Engage a hazy, zero-specular blur filter across the medallion ridges where position and velocity swap metrics endlessly."
+    }
+  },
+  "evolutionMetrics": {
+    "transcendenceTier": 1,
+    "resonanceXp": 0,
+    "unlockedFeats": []
+  }
+}

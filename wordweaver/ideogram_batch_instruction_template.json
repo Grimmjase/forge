@@ -1,0 +1,135 @@
+I have converted the data from your table into a JSON format. This includes the prompts and their associated parameters like visibility, aspect ratio, and style.``` json
+[
+  {
+    "prompt": "11:19 aspect ratio, metallic bas-relief tarot card. Top half: The Fool embarking on a journey (Thesis). Bottom half: An inverted 180-degree mirror image of the Fool as a hollowed-out wanderer (Antithesis). Seamless Thatcher Effect morph at the waistline. Steampunk Technomancy aesthetic, brass and oxidized copper, neon amber fractal wiring. Embossed text: 'THE ABSOLUTE POTENTIAL'.",
+    "visibility": "private",
+    "aspect_ratio": "11:19:00",
+    "magic_prompt": "on",
+    "model": "D3lphi",
+    "seed_number": null,
+    "rendering": "quality",
+    "negative_prompt": null,
+    "style": "Metallic technomancy",
+    "color_palette": "#457B5A #B8860B #8B4513 #00F0FF #FF7E1B",
+    "num_images": "1"
+  },
+  {
+    "prompt": "11:19 aspect ratio, metallic bas-relief tarot card. Top half: The Magician focused on manifesting power (Thesis). Bottom half: An inverted 180-degree mirror image showing the Magician as a stressed, fragmented conductor (Antithesis). Seamless Thatcher Effect morph at the waistline. Steampunk Technomancy aesthetic, amber vacuum tubes. Embossed text: 'THE ENIGMA'.",
+    "visibility": "private",
+    "aspect_ratio": "11:19:00",
+    "magic_prompt": "on",
+    "model": "D3lphi",
+    "seed_number": null,
+    "rendering": "quality",
+    "negative_prompt": null,
+    "style": "Metallic technomancy",
+    "color_palette": "#457B5A #B8860B #8B4513 #00F0FF #FF7E1B",
+    "num_images": "1"
+  },
+  {
+    "prompt": "11:19 aspect ratio, metallic bas-relief tarot card. Top half: The High Priestess holding the scrolls of truth (Thesis). Bottom half: An inverted 180-degree mirror image showing the Priestess straining behind rigid, iron bars of dogma (Antithesis). Seamless Thatcher Effect morph at the waistline. Technomancy aesthetic, neon blue fractal connections. Embossed text: 'THE REVELATION'.",
+    "visibility": "private",
+    "aspect_ratio": "11:19:00",
+    "magic_prompt": "on",
+    "model": "D3lphi",
+    "seed_number": null,
+    "rendering": "default",
+    "negative_prompt": null,
+    "style": "Metallic technomancy",
+    "color_palette": "#457B5A #B8860B #8B4513 #00F0FF #FF7E1B",
+    "num_images": "1"
+  },
+  {
+    "prompt": "11:19 aspect ratio, metallic bas-relief tarot card. Top half: The Empress architecting a verdant lattice (Thesis). Bottom half: An inverted 180-degree mirror image of the Empress suffocating under overgrown, brittle crystalline structures (Antithesis). Seamless Thatcher Effect morph at the waistline. Embossed text: 'THE GENERATIVE BLUEPRINT'.",
+    "visibility": "private",
+    "aspect_ratio": "11:19:00",
+    "magic_prompt": "on",
+    "model": "D3lphi",
+    "seed_number": null,
+    "rendering": "default",
+    "negative_prompt": null,
+    "style": "Metallic technomancy",
+    "color_palette": "#457B5A #B8860B #8B4513 #00F0FF #FF7E1B",
+    "num_images": "1"
+  },
+  {
+    "prompt": "11:19 aspect ratio, metallic bas-relief tarot card. Top half: The Emperor building a citadel of order (Thesis). Bottom half: An inverted 180-degree mirror image showing the Emperor as a skeletal figure clinging to crumbling stone (Antithesis). Seamless Thatcher Effect morph at the waistline. Embossed text: 'THE IMMUTABLE REGENT'.",
+    "visibility": "private",
+    "aspect_ratio": "11:19:00",
+    "magic_prompt": "on",
+    "model": "D3lphi",
+    "seed_number": null,
+    "rendering": "default",
+    "negative_prompt": null,
+    "style": "Metallic technomancy",
+    "color_palette": "#457B5A #B8860B #8B4513 #00F0FF #FF7E1B",
+    "num_images": "1"
+  },
+  {
+    "prompt": "11:19 aspect ratio, metallic bas-relief tarot card. Top half: Hierophant guiding a community with enlightened insight (Thesis). Bottom half: An inverted 180-degree mirror image showing the Hierophant casting a shadow of rigid orthodoxy (Antithesis). Seamless Thatcher Effect morph at the waistline. Embossed text: 'THE INTERPRETIVE SCAFFOLDING'.",
+    "visibility": "private",
+    "aspect_ratio": "11:19:00",
+    "magic_prompt": "on",
+    "model": "D3lphi",
+    "seed_number": null,
+    "rendering": "default",
+    "negative_prompt": null,
+    "style": "Metallic technomancy",
+    "color_palette": "#457B5A #B8860B #8B4513 #00F0FF #FF7E1B",
+    "num_images": "1"
+  },
+  {
+    "prompt": "11:19 aspect ratio, metallic bas-relief tarot card. Top half: The Lovers in harmonic resonance (Thesis). Bottom half: An inverted 180-degree mirror image showing the Lovers in a strained, performative embrace (Antithesis). Seamless Thatcher Effect morph at the waistline. Embossed text: 'THE RESONANCE WEAVER'.",
+    "visibility": "private",
+    "aspect_ratio": "11:19:00",
+    "magic_prompt": "on",
+    "model": "D3lphi",
+    "seed_number": null,
+    "rendering": "default",
+    "negative_prompt": null,
+    "style": "Metallic technomancy",
+    "color_palette": "#457B5A #B8860B #8B4513 #00F0FF #FF7E1B",
+    "num_images": "1"
+  },
+  {
+    "prompt": "11:19 aspect ratio, metallic bas-relief tarot card. Top half: The Chariot in righteous, steady motion (Thesis). Bottom half: An inverted 180-degree mirror image showing the Chariot straining into aggressive, unyielding authoritarianism (Antithesis). Seamless Thatcher Effect morph at the waistline. Embossed text: 'THE DIVINE MANDATE'.",
+    "visibility": "private",
+    "aspect_ratio": "11:19:00",
+    "magic_prompt": "on",
+    "model": "D3lphi",
+    "seed_number": null,
+    "rendering": "default",
+    "negative_prompt": null,
+    "style": "Metallic technomancy",
+    "color_palette": "#457B5A #B8860B #8B4513 #00F0FF #FF7E1B",
+    "num_images": "1"
+  },
+  {
+    "prompt": "11:19 aspect ratio, metallic bas-relief tarot card. Top half: Strength taming the beast with serene focus (Thesis). Bottom half: An inverted 180-degree mirror image showing the struggle turning into a suffocating, entangled loop (Antithesis). Seamless Thatcher Effect morph at the waistline. Embossed text: 'THE ARCHITECTONIC PRINCIPLE'.",
+    "visibility": "private",
+    "aspect_ratio": "11:19:00",
+    "magic_prompt": "on",
+    "model": "D3lphi",
+    "seed_number": null,
+    "rendering": "default",
+    "negative_prompt": null,
+    "style": "Metallic technomancy",
+    "color_palette": "#457B5A #B8860B #8B4513 #00F0FF #FF7E1B",
+    "num_images": "1"
+  },
+  {
+    "prompt": "11:19 aspect ratio, metallic bas-relief tarot card. Top half: The Hermit radiating solitary, disciplined wisdom (Thesis). Bottom half: An inverted 180-degree mirror image showing the Hermit trapped in the hollow shell of isolation (Antithesis). Seamless Thatcher Effect morph at the waistline. Embossed text: 'THE COVENANT OF GNOSIS'.",
+    "visibility": "private",
+    "aspect_ratio": "11:19:00",
+    "magic_prompt": "on",
+    "model": "D3lphi",
+    "seed_number": null,
+    "rendering": "default",
+    "negative_prompt": null,
+    "style": "Metallic technomancy",
+    "color_palette": "#457B5A #B8860B #8B4513 #00F0FF #FF7E1B",
+    "num_images": "1"
+  }
+]
+
+```

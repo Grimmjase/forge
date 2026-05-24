@@ -1,0 +1,98 @@
+{
+  "game_meta": {
+    "engine_target": "D3LPHI_ADVERSARIAL_CORE",
+    "mechanic_style": "Stamped_Metal_Bas_Relief_Pathfinder"
+  },
+  "major_arcana": {
+    "MAJOR_09": {
+      "index": 9,
+      "name": "The Hermit",
+      "class": "Chronomancy Shaman",
+      "race": "Deep Gnome (Svirfneblin)",
+      "upright": {
+        "ability_name": "Socratic Firewall",
+        "action": "Isolates the current slot reel row from external telemetry corruption; freezes adjacent buffs for 2 spin iterations."
+      },
+      "inverted": {
+        "ability_name": "Cache Lockdown Stasis",
+        "action": "Flipping gravity triggers localized system freeze. Completely blocks player resource accumulation on this column until manually nudged."
+      },
+      "visual_spec": "Bas-relief weathered iron token featuring a gaunt, bearded gnome shaman holding a vacuum-tube lantern that casts crisp cyan vector tracking lines across metallic contours."
+    },
+    "MAJOR_10": {
+      "index": 10,
+      "name": "Wheel of Fortune",
+      "class": "Probability Matrix Array",
+      "race": "Storm Giant Construct",
+      "upright": {
+        "ability_name": "Stochastic Multiplier Boost",
+        "action": "Alters the payload multiplier dynamically based on real-time spin velocity gear ratios (+2x to +10x range)."
+      },
+      "inverted": {
+        "ability_name": "Entropic Variable Cascade",
+        "action": "Forces an unpredictable, volatile reallocation of active user mana pool scores, scrambling active character sheets randomly."
+      },
+      "visual_spec": "Tactile stamped brass medallion mapping out complex interlocking gear assemblies flanked by sculpted storm giant crests, overlaid with an active orange targeting crosshair HUD."
+    },
+    "MAJOR_13": {
+      "index": 13,
+      "name": "Death",
+      "class": "Juggernaut Vanguard",
+      "race": "Undead Orc Wight",
+      "upright": {
+        "ability_name": "Terminal State Wipe",
+        "action": "Executes a clean full-screen board wipe, instantly liquidating expired variables to flush cash tokens into memory slots."
+      },
+      "inverted": {
+        "ability_name": "Legacy Stagnation Deadlock",
+        "action": "Prevents stale tiles from clearing out of the grid window, forcing the user's party to process clogged, un-optimizable logic data lines."
+      },
+      "visual_spec": "Heavy chiseled steel bas-relief containing a massive skeletal knight in brutalist iron plate armor. A brilliant horizontal cyan payline trace tracks his blade's edge."
+    },
+    "MAJOR_15": {
+      "index": 15,
+      "name": "The Devil",
+      "class": "Shadow Manipulator",
+      "race": "Tiefling / Dark Elf",
+      "upright": {
+        "ability_name": "Resource Condensation Vault",
+        "action": "Binds adjacent minor tiles to its layout point, pooling their aggregate values into a high-tier critical payout target."
+      },
+      "inverted": {
+        "ability_name": "Algorithmic Friction Loop",
+        "action": "Imposes a strict stun status trap on nearby heroes, siphoning a steady drainage of focus points per operational tick."
+      },
+      "visual_spec": "Starnished oxidized copper medallion featuring an imposing horn-crested dark elf rogue crouched on a locked vault ledger, with amber HUD indicators tracing mechanical boundary limits."
+    }
+  },
+  "minor_arcana_suits": {
+    "WANDS": {
+      "element": "Fire",
+      "archetype_class": "Elementalist Sorcerer",
+      "dominant_race": "Orc / Fire Genasi Humanoids",
+      "upright_focus": "Velocity amplification, explosive combination triggers, payline expansion.",
+      "inverted_focus": "Uncontrolled burnout, rapid resource depletion parameters, over-heating friction."
+    },
+    "CUPS": {
+      "element": "Water",
+      "archetype_class": "Devout Cleric / Oracle",
+      "dominant_race": "Toad-like Deep Humanoids / Sea Elves",
+      "upright_focus": "Mana restoration, memory cleansing shields, damage negation fields.",
+      "inverted_focus": "Stagnant drainage, emotional distortion blockers, tracking fog hazards."
+    },
+    "SWORDS": {
+      "element": "Air",
+      "archetype_class": "Precision Rogue / Duelist",
+      "dominant_race": "Light Elf / Sylph Humanoids",
+      "upright_focus": "Grid node manipulation, clearing path obstructions, micro-nudge agilities.",
+      "inverted_focus": "Directionless crosswinds, broken code line fractures, mental data bleeding."
+    },
+    "PENTACLES": {
+      "element": "Earth",
+      "archetype_class": "Abjuration Artificer",
+      "dominant_race": "Dwarf / Rock Gnome Humanoids",
+      "upright_focus": "Persistent value stacking, locking asset arrays in place, multi-spin defense vaults.",
+      "inverted_focus": "Severe systemic material friction, frozen inventory states, structural weight drag."
+    }
+  }
+}

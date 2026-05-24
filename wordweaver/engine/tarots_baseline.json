@@ -1,0 +1,32 @@
+{
+  "elements": {
+    "MAJOR_09": {
+      "name": "The Hermit",
+      "functional_role": "ISOLATED_PROCESSOR",
+      "valence": "Neutral-Inward",
+      "diagnostic_lens": "TACTICAL_TELEMETRY_CESSATION",
+      "reactive_behavior": "Executes localized process lockdown; shields current line cells from external modifier corruption."
+    },
+    "MAJOR_10": {
+      "name": "Wheel of Fortune",
+      "functional_role": "STOCHASTIC_MUTATOR",
+      "valence": "Dynamic-Volatile",
+      "diagnostic_lens": "SYSTEM_CONSTANT_VARIANCE",
+      "reactive_behavior": "Modifies active payline gear ratios, dynamically applying a random multiplier step based on loop velocity."
+    },
+    "MAJOR_13": {
+      "name": "Death",
+      "functional_role": "TERMINAL_STATE",
+      "valence": "Systemic-Critical",
+      "diagnostic_lens": "PROCESS_PHASE_TRANSITION",
+      "reactive_behavior": "Triggers complete board clear layout collapse; flushes deadlocked memory allocations to prepare next phase."
+    },
+    "MAJOR_15": {
+      "name": "The Devil",
+      "functional_role": "LOGIC_LOOP",
+      "valence": "Negative-Stagnant",
+      "diagnostic_lens": "RECURSIVE_ALG_TRAP",
+      "reactive_behavior": "Imposes strict state locking; ties adjacent values to its position to calculate steady resource draw per tick."
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "major_09",
+  "name": "THE HERMIT",
+  "shadow_name": "THE CLERIC",
+  "description_info": {
+    "astrology": "Virgo",
+    "element": "Earth",
+    "numerology": 9,
+    "general_theme": "Introspection, soul-searching, inner guidance."
+  },
+  "positions": {
+    "upright": {
+      "meaning": "A period of self-reflection and withdrawing from the world to find answers within. Seeking the inner light.",
+      "visual_description": "An old man standing on a snowy mountain peak, holding a lantern containing a glowing six-pointed star, and leaning on a staff."
+    },
+    "inverted": {
+      "meaning": "Isolation, loneliness, or being lost in the dark. Ignoring wise counsel or refusing to do the necessary inner work.",
+      "visual_description": "The lantern is overturned, the star's light extinguished, and the figure appears to be tumbling down the snowy crag into the abyss."
+    }
+  },
+  "assets": {
+    "image_texture": "major_09_anagram.png"
+  }
+}

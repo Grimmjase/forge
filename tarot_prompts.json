@@ -1,0 +1,392 @@
+[
+    {
+        "name": "the_fool",
+        "upright_prompt": "a vintage esoteric lithograph representing The Fool, freedom, faith, inexperience",
+        "inverted_prompt": "a vintage esoteric lithograph representing The Fool, being gullible and naive, taking unnecessary risks"
+    },
+    {
+        "name": "the_magician",
+        "upright_prompt": "a vintage esoteric lithograph representing The Magician, capability, empowerment, activity",
+        "inverted_prompt": "a vintage esoteric lithograph representing The Magician, inflating your own ego, abusing talents"
+    },
+    {
+        "name": "the_papess_high_priestess",
+        "upright_prompt": "a vintage esoteric lithograph representing The Papess/High Priestess, intuition, reflection, purity",
+        "inverted_prompt": "a vintage esoteric lithograph representing The Papess/High Priestess, being aloof, obsessing on secrets and conspiracies"
+    },
+    {
+        "name": "the_empress",
+        "upright_prompt": "a vintage esoteric lithograph representing The Empress, fertility, productivity, ripeness",
+        "inverted_prompt": "a vintage esoteric lithograph representing The Empress, overindulging, being greedy"
+    },
+    {
+        "name": "the_emperor",
+        "upright_prompt": "a vintage esoteric lithograph representing The Emperor, authority, regulation, direction",
+        "inverted_prompt": "a vintage esoteric lithograph representing The Emperor, micromanaging, crushing the creativity of others with a rigid, iron-fisted approach"
+    },
+    {
+        "name": "the_pope_hierophant",
+        "upright_prompt": "a vintage esoteric lithograph representing The Pope/Hierophant, guidance, knowledge, revelation",
+        "inverted_prompt": "a vintage esoteric lithograph representing The Pope/Hierophant, using experience as a means of manipulating or misguiding others, being dogmatic"
+    },
+    {
+        "name": "the_lovers",
+        "upright_prompt": "a vintage esoteric lithograph representing The Lovers, love, passion, unity",
+        "inverted_prompt": "a vintage esoteric lithograph representing The Lovers, debilitating passion, allowing an unhealthy desire for love to motivate destructive behavior"
+    },
+    {
+        "name": "the_chariot",
+        "upright_prompt": "a vintage esoteric lithograph representing The Chariot, advancement, victory, triumph",
+        "inverted_prompt": "a vintage esoteric lithograph representing The Chariot, resting on laurels, riding roughshod over the feelings or expectations of others"
+    },
+    {
+        "name": "strength",
+        "upright_prompt": "a vintage esoteric lithograph representing Strength, discipline, boldness, self-discipline",
+        "inverted_prompt": "a vintage esoteric lithograph representing Strength, indulging weakness, even when you know it will damage your health and happiness, languishing in addiction"
+    },
+    {
+        "name": "the_hermit",
+        "upright_prompt": "a vintage esoteric lithograph representing The Hermit, solitude, experience, stillness",
+        "inverted_prompt": "a vintage esoteric lithograph representing The Hermit, being a loner, fearing contact with others"
+    },
+    {
+        "name": "the_wheel",
+        "upright_prompt": "a vintage esoteric lithograph representing The Wheel, luck, randomness, cycles",
+        "inverted_prompt": "a vintage esoteric lithograph representing The Wheel, losing money gambling, refusing to do your part to bring a plan to fruition"
+    },
+    {
+        "name": "justice",
+        "upright_prompt": "a vintage esoteric lithograph representing Justice, balance, law, fairness",
+        "inverted_prompt": "a vintage esoteric lithograph representing Justice, delivering harsh criticism, obsessing on rules and regulations"
+    },
+    {
+        "name": "the_hanged_man",
+        "upright_prompt": "a vintage esoteric lithograph representing The Hanged Man, enlightenment, sacrifice, perspective",
+        "inverted_prompt": "a vintage esoteric lithograph representing The Hanged Man, being untrue to yourself and your values, refusing to make sacrifices when appropriate"
+    },
+    {
+        "name": "death",
+        "upright_prompt": "a vintage esoteric lithograph representing Death, ending, conclusion, transition",
+        "inverted_prompt": "a vintage esoteric lithograph representing Death, obsessing on death and dying, refusing to give up old habits or unhealthy relationships"
+    },
+    {
+        "name": "temperance",
+        "upright_prompt": "a vintage esoteric lithograph representing Temperance, blending, synthesis, mediation",
+        "inverted_prompt": "a vintage esoteric lithograph representing Temperance, going to extremes, disrupting group efforts"
+    },
+    {
+        "name": "the_devil",
+        "upright_prompt": "a vintage esoteric lithograph representing The Devil, shadow, materialism, bondage",
+        "inverted_prompt": "a vintage esoteric lithograph representing The Devil, putting excessive emphasis on appearances, always wanting more"
+    },
+    {
+        "name": "the_tower",
+        "upright_prompt": "a vintage esoteric lithograph representing The Tower, demolition, upheaval, deconstruction",
+        "inverted_prompt": "a vintage esoteric lithograph representing The Tower, clinging to traditions that repress growth, engaging in willful blindness"
+    },
+    {
+        "name": "the_star",
+        "upright_prompt": "a vintage esoteric lithograph representing The Star, hope, optimism, openness",
+        "inverted_prompt": "a vintage esoteric lithograph representing The Star, denying unpleasant truths, denying personal accountability and saying, \"things just happen!\""
+    },
+    {
+        "name": "the_moon",
+        "upright_prompt": "a vintage esoteric lithograph representing The Moon, mystery, fantasy, imagination",
+        "inverted_prompt": "a vintage esoteric lithograph representing The Moon, becoming unable to separate fantasy from reality, suffering from delusions"
+    },
+    {
+        "name": "the_sun",
+        "upright_prompt": "a vintage esoteric lithograph representing The Sun, joy, brilliance, validation",
+        "inverted_prompt": "a vintage esoteric lithograph representing The Sun, being dazzled by your own accomplishments, becoming absorbed in your own self-image"
+    },
+    {
+        "name": "judgement",
+        "upright_prompt": "a vintage esoteric lithograph representing Judgement, revival, renewal, resurrection",
+        "inverted_prompt": "a vintage esoteric lithograph representing Judgement, being weighed in the balances and found wanting, failing to measure up to a well-defined standard"
+    },
+    {
+        "name": "the_world",
+        "upright_prompt": "a vintage esoteric lithograph representing The World, wholeness, integration, totality",
+        "inverted_prompt": "a vintage esoteric lithograph representing The World, allowing greed and envy to prevent you from enjoying what you do possess, failing to see the larger design in ordinary events"
+    },
+    {
+        "name": "ace_of_wands",
+        "upright_prompt": "a vintage esoteric lithograph representing ace of wands, desire, inspiration, vision",
+        "inverted_prompt": "a vintage esoteric lithograph representing ace of wands, failing to take advantage of a great opportunity, being ineffectual or lazy"
+    },
+    {
+        "name": "two_of_wands",
+        "upright_prompt": "a vintage esoteric lithograph representing two of wands, conflict, decision, option",
+        "inverted_prompt": "a vintage esoteric lithograph representing two of wands, misrepresenting your intentions, doing one thing while desiring another"
+    },
+    {
+        "name": "three_of_wands",
+        "upright_prompt": "a vintage esoteric lithograph representing three of wands, implementation, action, exploration",
+        "inverted_prompt": "a vintage esoteric lithograph representing three of wands, procrastinating, knowing what to do, but refusing to do it"
+    },
+    {
+        "name": "four_of_wands",
+        "upright_prompt": "a vintage esoteric lithograph representing four of wands, celebration, jubilation, community",
+        "inverted_prompt": "a vintage esoteric lithograph representing four of wands, keeping your nose to the grindstone, recognizing good work by demanding more work"
+    },
+    {
+        "name": "five_of_wands",
+        "upright_prompt": "a vintage esoteric lithograph representing five of wands, confrontation, disruption, distinction",
+        "inverted_prompt": "a vintage esoteric lithograph representing five of wands, berating others for their ridiculous opinions, picking fights"
+    },
+    {
+        "name": "six_of_wands",
+        "upright_prompt": "a vintage esoteric lithograph representing six of wands, victory, achievement, success",
+        "inverted_prompt": "a vintage esoteric lithograph representing six of wands, being a bad winner, allowing your achievements to inflate your ego"
+    },
+    {
+        "name": "seven_of_wands",
+        "upright_prompt": "a vintage esoteric lithograph representing seven of wands, bravery, resolve, determination",
+        "inverted_prompt": "a vintage esoteric lithograph representing seven of wands, having a chip on your shoulder, taking unnecessary risks as a means of proving your fearlessness"
+    },
+    {
+        "name": "eight_of_wands",
+        "upright_prompt": "a vintage esoteric lithograph representing eight of wands, speed, swiftness, responsiveness",
+        "inverted_prompt": "a vintage esoteric lithograph representing eight of wands, giving in to panic, running in circles and screaming"
+    },
+    {
+        "name": "nine_of_wands",
+        "upright_prompt": "a vintage esoteric lithograph representing nine of wands, toughness, persistence, stamina",
+        "inverted_prompt": "a vintage esoteric lithograph representing nine of wands, making yourself a martyr, abandoning your post"
+    },
+    {
+        "name": "ten_of_wands",
+        "upright_prompt": "a vintage esoteric lithograph representing ten of wands, exhaustion, resistance, burden",
+        "inverted_prompt": "a vintage esoteric lithograph representing ten of wands, taking on more work than you know you can handle, refusing to say \"no\" when you're already overloaded"
+    },
+    {
+        "name": "page_of_wands",
+        "upright_prompt": "a vintage esoteric lithograph representing page of wands, enthusiasm, eagerness, confidence",
+        "inverted_prompt": "a vintage esoteric lithograph representing page of wands, basing your entire self-image on what others think, seizing every new idea that comes your way without question"
+    },
+    {
+        "name": "knight_of_wands",
+        "upright_prompt": "a vintage esoteric lithograph representing knight of wands, boldness, bravado, passion",
+        "inverted_prompt": "a vintage esoteric lithograph representing knight of wands, blundering forward with inadequate skill or information, running roughshod over the feelings of others"
+    },
+    {
+        "name": "queen_of_wands",
+        "upright_prompt": "a vintage esoteric lithograph representing queen of wands, attention, attraction, unification",
+        "inverted_prompt": "a vintage esoteric lithograph representing queen of wands, being distracted, or using your charms or skills to distract others from the goal, calling attention to yourself with negative or unhealthy behaviors"
+    },
+    {
+        "name": "king_of_wands",
+        "upright_prompt": "a vintage esoteric lithograph representing king of wands, creativity, ingenuity, achievement",
+        "inverted_prompt": "a vintage esoteric lithograph representing king of wands, using your creativity to get out of honest work, investing great energy in avoiding responsibility"
+    },
+    {
+        "name": "ace_of_cups",
+        "upright_prompt": "a vintage esoteric lithograph representing ace of cups, intuition, spirituality, affection",
+        "inverted_prompt": "a vintage esoteric lithograph representing ace of cups, hiding your feelings, spurning an opportunity to love or be loved"
+    },
+    {
+        "name": "two_of_cups",
+        "upright_prompt": "a vintage esoteric lithograph representing two of cups, union, attraction, combination",
+        "inverted_prompt": "a vintage esoteric lithograph representing two of cups, burning bridges, becoming caught up in unhealthy codependency"
+    },
+    {
+        "name": "three_of_cups",
+        "upright_prompt": "a vintage esoteric lithograph representing three of cups, celebration, expression, community",
+        "inverted_prompt": "a vintage esoteric lithograph representing three of cups, mistaking giddiness for true affection, being dominated by manic emotions"
+    },
+    {
+        "name": "four_of_cups",
+        "upright_prompt": "a vintage esoteric lithograph representing four of cups, boredom, listlessness, lethargy",
+        "inverted_prompt": "a vintage esoteric lithograph representing four of cups, being bored, daydreaming at the expense of your work"
+    },
+    {
+        "name": "five_of_cups",
+        "upright_prompt": "a vintage esoteric lithograph representing five of cups, loss, despair, re-evaluation",
+        "inverted_prompt": "a vintage esoteric lithograph representing five of cups, wallowing in unhealthy grief or self-pity, refusing to move on and let go"
+    },
+    {
+        "name": "six_of_cups",
+        "upright_prompt": "a vintage esoteric lithograph representing six of cups, charity, sharing, sacrifice",
+        "inverted_prompt": "a vintage esoteric lithograph representing six of cups, linking your sense of self-worth to the appraisals of others, striving to appear more needy than you really are"
+    },
+    {
+        "name": "seven_of_cups",
+        "upright_prompt": "a vintage esoteric lithograph representing seven of cups, imagination, dreams, illusions",
+        "inverted_prompt": "a vintage esoteric lithograph representing seven of cups, obsessing on imaginary fears or uncertain consequences, giving in to emotional or political terrorism"
+    },
+    {
+        "name": "eight_of_cups",
+        "upright_prompt": "a vintage esoteric lithograph representing eight of cups, longing, dissatisfaction, quest",
+        "inverted_prompt": "a vintage esoteric lithograph representing eight of cups, being implacable, finding fault"
+    },
+    {
+        "name": "nine_of_cups",
+        "upright_prompt": "a vintage esoteric lithograph representing nine of cups, satisfaction, sensuality, luxury",
+        "inverted_prompt": "a vintage esoteric lithograph representing nine of cups, being smug, satisfying yourself at the expense of others"
+    },
+    {
+        "name": "ten_of_cups",
+        "upright_prompt": "a vintage esoteric lithograph representing ten of cups, joy, fulfillment, overwhelming emotion",
+        "inverted_prompt": "a vintage esoteric lithograph representing ten of cups, comparing your achievements or relationships to unrealistic fantasy standards, experiencing emotions so intense they blunt your ability to cope with reality"
+    },
+    {
+        "name": "page_of_cups",
+        "upright_prompt": "a vintage esoteric lithograph representing page of cups, enthusiasm, first impressions, romanticism",
+        "inverted_prompt": "a vintage esoteric lithograph representing page of cups, mistaking a crush for true love, reading romantic intention into innocent action"
+    },
+    {
+        "name": "knight_of_cups",
+        "upright_prompt": "a vintage esoteric lithograph representing knight of cups, fervor, zeal, moodiness",
+        "inverted_prompt": "a vintage esoteric lithograph representing knight of cups, becoming a fanatic, rejecting information that suggests your intuitions are misguided"
+    },
+    {
+        "name": "queen_of_cups",
+        "upright_prompt": "a vintage esoteric lithograph representing queen of cups, insightfulness, spirituality, compassion",
+        "inverted_prompt": "a vintage esoteric lithograph representing queen of cups, becoming so caught up in matters of spirit, you become detached from the world, allowing empathy to disable you (instead of inspire action)"
+    },
+    {
+        "name": "king_of_cups",
+        "upright_prompt": "a vintage esoteric lithograph representing king of cups, wisdom, diplomacy, restraint",
+        "inverted_prompt": "a vintage esoteric lithograph representing king of cups, allowing yourself to become rigid and unemotional, making unfair decisions based on a hidden agenda"
+    },
+    {
+        "name": "ace_of_swords",
+        "upright_prompt": "a vintage esoteric lithograph representing ace of swords, logic, objectivity, intellect",
+        "inverted_prompt": "a vintage esoteric lithograph representing ace of swords, applying ruthless or twisted logic, gloating over your own superior intellect"
+    },
+    {
+        "name": "two_of_swords",
+        "upright_prompt": "a vintage esoteric lithograph representing two of swords, denial, debate, impasse",
+        "inverted_prompt": "a vintage esoteric lithograph representing two of swords, rejecting evidence that conflicts with dearly-held beliefs, arguing with others just for the sake of doing so"
+    },
+    {
+        "name": "three_of_swords",
+        "upright_prompt": "a vintage esoteric lithograph representing three of swords, variance, difference, dissatisfaction",
+        "inverted_prompt": "a vintage esoteric lithograph representing three of swords, wallowing in despair, allowing yourself to be completely crushed by the thoughts, words, or deeds of another"
+    },
+    {
+        "name": "four_of_swords",
+        "upright_prompt": "a vintage esoteric lithograph representing four of swords, meditation, contemplation, perspective",
+        "inverted_prompt": "a vintage esoteric lithograph representing four of swords, failing to think things through, mistaking procrastination for thoughtfulness"
+    },
+    {
+        "name": "five_of_swords",
+        "upright_prompt": "a vintage esoteric lithograph representing five of swords, selfishness, hostility, irrationality",
+        "inverted_prompt": "a vintage esoteric lithograph representing five of swords, taking advantage of others, intimidating others"
+    },
+    {
+        "name": "six_of_swords",
+        "upright_prompt": "a vintage esoteric lithograph representing six of swords, adaptation, adjustments, science",
+        "inverted_prompt": "a vintage esoteric lithograph representing six of swords, refusing to accept that things have changed, playing the victim"
+    },
+    {
+        "name": "seven_of_swords",
+        "upright_prompt": "a vintage esoteric lithograph representing seven of swords, dishonesty, presumption, sneakiness",
+        "inverted_prompt": "a vintage esoteric lithograph representing seven of swords, stealing or lying, doing whatever you can get away with, simply because you can"
+    },
+    {
+        "name": "eight_of_swords",
+        "upright_prompt": "a vintage esoteric lithograph representing eight of swords, restriction, limitation, confinement",
+        "inverted_prompt": "a vintage esoteric lithograph representing eight of swords, feeling trapped, being lost in a maze of rules and regulations"
+    },
+    {
+        "name": "nine_of_swords",
+        "upright_prompt": "a vintage esoteric lithograph representing nine of swords, remorse, worry, distraught",
+        "inverted_prompt": "a vintage esoteric lithograph representing nine of swords, torturing yourself with regrets, second-guessing your every move"
+    },
+    {
+        "name": "ten_of_swords",
+        "upright_prompt": "a vintage esoteric lithograph representing ten of swords, exhaustion, ruin, disaster",
+        "inverted_prompt": "a vintage esoteric lithograph representing ten of swords, accepting defeat prematurely, driving yourself to total exhaustion, especially mentally"
+    },
+    {
+        "name": "page_of_swords",
+        "upright_prompt": "a vintage esoteric lithograph representing page of swords, student, apprentice, scholarship",
+        "inverted_prompt": "a vintage esoteric lithograph representing page of swords, pretending to knowledge or sophistication you do not possess, cheating on an exam"
+    },
+    {
+        "name": "knight_of_swords",
+        "upright_prompt": "a vintage esoteric lithograph representing knight of swords, bluntness, intelligence, incisiveness",
+        "inverted_prompt": "a vintage esoteric lithograph representing knight of swords, stating your opinions as fact, picking fights"
+    },
+    {
+        "name": "queen_of_swords",
+        "upright_prompt": "a vintage esoteric lithograph representing queen of swords, grace, skill, wit",
+        "inverted_prompt": "a vintage esoteric lithograph representing queen of swords, knowing exactly what to say to destroy another person, withholding critical information"
+    },
+    {
+        "name": "king_of_swords",
+        "upright_prompt": "a vintage esoteric lithograph representing king of swords, genius, expertise, decision",
+        "inverted_prompt": "a vintage esoteric lithograph representing king of swords, insisting on having the last word, flaunting your intellectual capability"
+    },
+    {
+        "name": "ace_of_coins",
+        "upright_prompt": "a vintage esoteric lithograph representing ace of coins, health, wealth, practicality",
+        "inverted_prompt": "a vintage esoteric lithograph representing ace of coins, indulging in relentless consumerism, wanting more, no matter how much you have"
+    },
+    {
+        "name": "two_of_coins",
+        "upright_prompt": "a vintage esoteric lithograph representing two of coins, evaluation, decision, budgeting",
+        "inverted_prompt": "a vintage esoteric lithograph representing two of coins, engaging in endless price comparison, putting off a buying decision for fear of finding a slightly better value later on"
+    },
+    {
+        "name": "three_of_coins",
+        "upright_prompt": "a vintage esoteric lithograph representing three of coins, expression, production, work",
+        "inverted_prompt": "a vintage esoteric lithograph representing three of coins, pandering to the tastes of others, failing to deliver what you've promised"
+    },
+    {
+        "name": "four_of_coins",
+        "upright_prompt": "a vintage esoteric lithograph representing four of coins, protection, conservation, preservation",
+        "inverted_prompt": "a vintage esoteric lithograph representing four of coins, being stingy, refusing to spend money that needs to be spent"
+    },
+    {
+        "name": "five_of_coins",
+        "upright_prompt": "a vintage esoteric lithograph representing five of coins, poverty, destitution, need",
+        "inverted_prompt": "a vintage esoteric lithograph representing five of coins, exaggerating your financial or physical needs, adopting a poverty mentality"
+    },
+    {
+        "name": "six_of_coins",
+        "upright_prompt": "a vintage esoteric lithograph representing six of coins, charity, fairness, cooperation",
+        "inverted_prompt": "a vintage esoteric lithograph representing six of coins, making a loan as a means of gaining control over someone, using charitable acts to draw attention to yourself"
+    },
+    {
+        "name": "seven_of_coins",
+        "upright_prompt": "a vintage esoteric lithograph representing seven of coins, assessment, evaluation, re-evaluation",
+        "inverted_prompt": "a vintage esoteric lithograph representing seven of coins, becoming distracted by melancholy thoughts, longing for \"the good old days\""
+    },
+    {
+        "name": "eight_of_coins",
+        "upright_prompt": "a vintage esoteric lithograph representing eight of coins, effort, work diligence, skill",
+        "inverted_prompt": "a vintage esoteric lithograph representing eight of coins, working yourself to death, doing a half-hearted or sloppy job"
+    },
+    {
+        "name": "nine_of_coins",
+        "upright_prompt": "a vintage esoteric lithograph representing nine of coins, training, discipline, confidence",
+        "inverted_prompt": "a vintage esoteric lithograph representing nine of coins, being assigned to a task without being trained to perform it, pursuing a position for which you are not qualified"
+    },
+    {
+        "name": "ten_of_coins",
+        "upright_prompt": "a vintage esoteric lithograph representing ten of coins, wealth, abundance, acquisition",
+        "inverted_prompt": "a vintage esoteric lithograph representing ten of coins, spending all of your money on extravagant gifts and possessions, trying too hard to impress others with your wealth or physique"
+    },
+    {
+        "name": "page_of_coins",
+        "upright_prompt": "a vintage esoteric lithograph representing page of coins, practicality, prosperity, learning",
+        "inverted_prompt": "a vintage esoteric lithograph representing page of coins, trying to appear healthier or wealthier than you really are, spending money carelessly"
+    },
+    {
+        "name": "knight_of_coins",
+        "upright_prompt": "a vintage esoteric lithograph representing knight of coins, caution, focus, realism",
+        "inverted_prompt": "a vintage esoteric lithograph representing knight of coins, throwing caution to the four winds, spending without regard for consequence"
+    },
+    {
+        "name": "queen_of_coins",
+        "upright_prompt": "a vintage esoteric lithograph representing queen of coins, luxury, comfort, resourcefulness",
+        "inverted_prompt": "a vintage esoteric lithograph representing queen of coins, indulging in gluttony or greediness, becoming insatiable"
+    },
+    {
+        "name": "king_of_coins",
+        "upright_prompt": "a vintage esoteric lithograph representing king of coins, stability, dependability, confidence",
+        "inverted_prompt": "a vintage esoteric lithograph representing king of coins, becoming so conservative you resist all change on principle alone, ignoring innovations in the name of preserving tradition"
+    }
+]
