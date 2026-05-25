@@ -1,0 +1,4 @@
+0000000000000000000000000000000000000000 79f7450970f0600e611181f4c641e1dadaf86894 Jase Grimm <grimm.jase@gmail.com> 1779556688 -0700	clone: from https://github.com/playfultechnology/visual_anagrams.git
+79f7450970f0600e611181f4c641e1dadaf86894 bd380d21f5dbcb54305ae9512ac36385537b0ee5 Jase Grimm <grimm.jase@gmail.com> 1779584967 -0700	commit: chore: add .DS_Store file to repository
+bd380d21f5dbcb54305ae9512ac36385537b0ee5 8f2490d341666b371ed1f636717090fd5eb70d2e Jase Grimm <grimm.jase@gmail.com> 1779640099 -0700	commit: feat: add tarot batch generation scripts and update sampler to use dynamic model device
+8f2490d341666b371ed1f636717090fd5eb70d2e a3081cb7d14b0f139d456ef93fa4024b2702b334 Jase Grimm <grimm.jase@gmail.com> 1779640104 -0700	commit: feat: add Ideogram CSV generation script and VS Code workspace configuration
