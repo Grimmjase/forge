@@ -164,7 +164,8 @@ def main():
         all_results[card] = scored
         
     # Save results to data folder
-    output_path = os.path.join("..", "data", "shadow_ambigram_candidates.json")
+    BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+    output_path = os.path.join(BASE_DIR, "..", "data", "shadow_ambigram_candidates.json")
     with open(output_path, "w") as f:
         json.dump(all_results, f, indent=4)
     print(f"\nSaved full results to {output_path}")
