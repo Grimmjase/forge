@@ -23,4 +23,4 @@ __pycache__/
 # Uncomment if you don't want datasets pushed to GitHub
 # data/
 data/.cache/
-visual_anagrams/checkpoints/
+Icebox/
