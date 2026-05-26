@@ -4,6 +4,7 @@ import json
 import numpy as np
 from PIL import Image, ImageDraw, ImageFont
 from google import genai
+from dotenv import load_dotenv
 
 # The 22 Major Arcana
 MAJOR_ARCANA = [
@@ -131,6 +132,9 @@ def evaluate_shadows(card_name, candidates, font):
     return results
 
 def main():
+    # Load .env file automatically
+    load_dotenv(os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), ".env"))
+    
     api_key = os.environ.get("GEMINI_API_KEY")
     if not api_key:
         print("Please set your GEMINI_API_KEY environment variable to use the LLM generator.")
